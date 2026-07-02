@@ -1,0 +1,37 @@
+name: collect-metrics
+# 毎日昼(13:00 JST = 4:00 UTC)に、24時間経過した投稿の反応を記録
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meguru-state
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r requirements.txt
+      - name: Collect metrics
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python scripts/collect_metrics.py
+      - name: Commit state
+        run: |
+          git config user.name "meguru-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/state.json data/metrics.csv || true
+          git diff --cached --quiet || git commit -m "metrics: $(date +%Y-%m-%d)"
+          git push
