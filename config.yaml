@@ -1,0 +1,39 @@
+# ============================================================
+# meguru 自動SNS運用パイプライン 設定ファイル
+# ここの値を変えるだけで挙動を調整できます(コード修正不要)
+# ============================================================
+
+app:
+  name: "meguru(めぐる)"
+  description: "参拝した神社仏閣をサッと記録・御朱印写真をコレクションできる個人開発アプリ"
+  ios_url: "https://apps.apple.com/jp/app/XXXXXXXX"      # ← 実際のURLに変更
+  android_url: "https://play.google.com/store/apps/details?id=XXXXXXXX"  # ← 実際のURLに変更
+
+claude:
+  model: "claude-haiku-4-5-20251001"   # 文面生成用(軽量・低コスト)
+  review_model: "claude-haiku-4-5-20251001"  # 週次分析用
+
+posting:
+  promo_interval: 10        # 何回に1回、宣伝投稿にするか
+  max_length: 140           # X無料アカウントの上限に合わせる
+  hashtags_x: ["#御朱印", "#御朱印巡り", "#神社仏閣"]  # ここからランダムに1〜2個
+  hashtags_bluesky: []      # Blueskyはタグ控えめ文化のため空
+  hashtags_threads: []      # Threadsもタグなし運用
+  platforms:                # 投稿先のオン/オフ
+    x: true
+    bluesky: true
+    threads: true
+
+card:
+  enabled: true             # 豆知識カード画像を添付するか
+  categories: ["mame"]      # カード画像を付けるカテゴリ(豆知識のみ推奨)
+
+self_reply:
+  enabled: true
+  like_threshold: 3         # このいいね数を超えたらセルフリプで誘導
+  include_store_link: true  # リプにストアリンクを入れる(URL付き投稿は$0.20/件)
+  check_hours_after: 6      # 投稿の何時間後にチェックするか(workflowのcronと合わせる)
+
+learning:
+  min_samples: 20           # 分析を始める最低データ件数(少数の偶然に引っ張られない安全弁)
+  lookback_days: 28         # 直近何日分を分析対象にするか

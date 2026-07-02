@@ -1,0 +1,6 @@
+anthropic>=0.40
+tweepy>=4.14
+atproto>=0.0.55
+Pillow>=10.0
+PyYAML>=6.0
+requests>=2.31
