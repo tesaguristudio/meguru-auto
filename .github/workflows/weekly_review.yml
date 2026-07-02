@@ -1,0 +1,34 @@
+name: weekly-review
+# 毎週月曜 10:00 JST(=1:00 UTC)に実績を分析して知見メモを更新
+on:
+  schedule:
+    - cron: "0 1 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meguru-state
+  cancel-in-progress: false
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r requirements.txt
+      - name: Analyze and update insights
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/weekly_review.py
+      - name: Commit insights
+        run: |
+          git config user.name "meguru-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/insights.md || true
+          git diff --cached --quiet || git commit -m "weekly review"
+          git push
