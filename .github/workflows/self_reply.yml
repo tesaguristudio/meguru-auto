@@ -1,0 +1,39 @@
+name: self-reply
+# 投稿の約6時間後に反応チェック(平日26時=翌2:00 JST / 土日14:00 JST)
+on:
+  schedule:
+    - cron: "0 17 * * 1-5"   # 平日投稿(20時)の6時間後 = 翌2:00 JST
+    - cron: "0 5 * * 6,0"    # 土日投稿(8時)の6時間後 = 14:00 JST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meguru-state
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q -r requirements.txt
+      - name: Check and self-reply
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python scripts/self_reply.py
+      - name: Commit state
+        run: |
+          git config user.name "meguru-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/state.json || true
+          git diff --cached --quiet || git commit -m "self-reply check"
+          git push
