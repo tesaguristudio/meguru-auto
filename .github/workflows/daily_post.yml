@@ -1,0 +1,46 @@
+name: daily-post
+# 平日20:00 JST(=11:00 UTC) / 土日8:00 JST(=前日23:00 UTC)
+on:
+  schedule:
+    - cron: "0 11 * * 1-5"   # 月〜金 20:00 JST
+    - cron: "0 23 * * 5,6"   # 土・日 08:00 JST(UTCでは金・土の23時)
+  workflow_dispatch: {}       # 手動実行も可能(テスト用)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meguru-state
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install fonts and deps
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+          pip install -q -r requirements.txt
+      - name: Generate and post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: python scripts/post_all.py
+      - name: Commit state
+        run: |
+          git config user.name "meguru-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/state.json output/cards/ || true
+          git diff --cached --quiet || git commit -m "post: $(date +%Y-%m-%d)"
+          git push
