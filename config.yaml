@@ -22,7 +22,7 @@ posting:
   platforms:                # 投稿先のオン/オフ
     x: true
     bluesky: true
-    threads: true
+    threads: false
 
 card:
   enabled: true             # 豆知識カード画像を添付するか
