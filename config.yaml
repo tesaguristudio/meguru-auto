@@ -15,7 +15,7 @@ claude:
 
 posting:
   promo_interval: 10        # 何回に1回、宣伝投稿にするか
-  max_length: 140           # X無料アカウントの上限に合わせる
+  max_length: 300           # X無料アカウントの上限に合わせる
   hashtags_x: ["#御朱印", "#御朱印巡り", "#神社仏閣"]  # ここからランダムに1〜2個
   hashtags_bluesky: []      # Blueskyはタグ控えめ文化のため空
   hashtags_threads: []      # Threadsもタグなし運用
