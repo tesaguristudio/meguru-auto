@@ -1,5 +1,5 @@
 {
- "post_count": 1,
+ "post_count": 2,
  "used_ids": [
   "m039"
  ],
@@ -13,6 +13,15 @@
    "text_head": "神社で見かける神職と巫女さん、実は役割が違うんですよね。神職は資格を持つ祭祀の専",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2074136767868104788",
+   "posted_at": "2026-07-06T23:21:57.192185+09:00",
+   "category": "season",
+   "topic_id": "cal-07-07",
+   "text_head": "七夕限定の御朱印をいただきました⛩ 短冊と天の川のデザインが素敵で、季節感をしっ",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
