@@ -1,5 +1,5 @@
 {
- "post_count": 2,
+ "post_count": 3,
  "used_ids": [
   "m039"
  ],
@@ -20,6 +20,15 @@
    "category": "season",
    "topic_id": "cal-07-07",
    "text_head": "七夕限定の御朱印をいただきました⛩ 短冊と天の川のデザインが素敵で、季節感をしっ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2074482209835110532",
+   "posted_at": "2026-07-07T22:14:37.064119+09:00",
+   "category": "season",
+   "topic_id": "cal-07-09",
+   "text_head": "浅草寺のほおずき市、毎年この時期の楽しみです。四万六千日分のご利益があるとされる",
    "self_replied": false,
    "measured": false
   }
