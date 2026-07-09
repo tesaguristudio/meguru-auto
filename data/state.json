@@ -1,7 +1,8 @@
 {
- "post_count": 4,
+ "post_count": 5,
  "used_ids": [
-  "m039"
+  "m039",
+  "s024"
  ],
  "mame_vol": 1,
  "last_posts": [
@@ -38,6 +39,15 @@
    "category": "season",
    "topic_id": "cal-07-09",
    "text_head": "明日から浅草寺のほおずき市！四万六千日の功徳があるとされる夏の縁日です。朝顔市と",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2075214723382133244",
+   "posted_at": "2026-07-09T22:45:21.980759+09:00",
+   "category": "spot",
+   "topic_id": "s024",
+   "text_head": "榛名神社⛩️、巨岩に囲まれた参道を歩むだけで何か引き込まれる感じ。社殿が岩と一体",
    "self_replied": false,
    "measured": false
   }
