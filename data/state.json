@@ -1,5 +1,5 @@
 {
- "post_count": 5,
+ "post_count": 6,
  "used_ids": [
   "m039",
   "s024"
@@ -48,6 +48,15 @@
    "category": "spot",
    "topic_id": "s024",
    "text_head": "榛名神社⛩️、巨岩に囲まれた参道を歩むだけで何か引き込まれる感じ。社殿が岩と一体",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2075567814736585107",
+   "posted_at": "2026-07-10T22:08:25.440819+09:00",
+   "category": "season",
+   "topic_id": "cal-07-17",
+   "text_head": "祇園祭の季節がやってきました。八坂神社は7月まるごと祭事一色。巡行当日はもちろん",
    "self_replied": false,
    "measured": false
   }
