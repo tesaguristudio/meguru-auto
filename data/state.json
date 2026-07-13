@@ -1,5 +1,5 @@
 {
- "post_count": 8,
+ "post_count": 9,
  "used_ids": [
   "m039",
   "s024"
@@ -77,6 +77,15 @@
    "text_head": "祇園祭の時期、八坂神社の限定御朱印が欲しくて参拝してきました。山鉾巡行の迫力も素",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2076656862225965497",
+   "posted_at": "2026-07-13T22:15:54.595217+09:00",
+   "category": "season",
+   "topic_id": "cal-07-17",
+   "text_head": "祇園祭の季節ですね。八坂神社では7月を通じて様々な祭事が行われていて、期間限定の",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
