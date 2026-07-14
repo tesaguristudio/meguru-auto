@@ -1,5 +1,5 @@
 {
- "post_count": 9,
+ "post_count": 10,
  "used_ids": [
   "m039",
   "s024"
@@ -85,6 +85,15 @@
    "topic_id": "cal-07-17",
    "text_head": "祇園祭の季節ですね。八坂神社では7月を通じて様々な祭事が行われていて、期間限定の",
    "self_replied": true,
+   "measured": false
+  },
+  {
+   "tweet_id": "2077001995848724799",
+   "posted_at": "2026-07-14T21:07:20.881516+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝した神社仏閣をサッと記録して、御朱印写真をコレクションしておく…そんな個人開",
+   "self_replied": false,
    "measured": false
   }
  ]
