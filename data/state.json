@@ -1,5 +1,5 @@
 {
- "post_count": 11,
+ "post_count": 12,
  "used_ids": [
   "m039",
   "s024"
@@ -103,6 +103,15 @@
    "topic_id": "cal-07-17",
    "text_head": "祇園祭の季節ですね。八坂神社は7月1日から31日まで、様々な祭事が行われるんです",
    "self_replied": true,
+   "measured": false
+  },
+  {
+   "tweet_id": "2077729194927145161",
+   "posted_at": "2026-07-16T21:16:58.747077+09:00",
+   "category": "season",
+   "topic_id": "cal-07-17",
+   "text_head": "祇園祭の季節ですね。八坂神社は7月まるごと祭事で、その間の限定御朱印も見どころ。",
+   "self_replied": false,
    "measured": false
   }
  ]
