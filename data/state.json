@@ -1,11 +1,12 @@
 {
- "post_count": 13,
+ "post_count": 14,
  "used_ids": [
   "m039",
   "s024",
-  "k002"
+  "k002",
+  "m026"
  ],
- "mame_vol": 1,
+ "mame_vol": 2,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -121,6 +122,15 @@
    "category": "season",
    "topic_id": "k002",
    "text_head": "6月末の夏越の大祓、茅の輪くぐりに参拝してきました。半年の穢れを祓う神事で、8の",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2078266141340840325",
+   "posted_at": "2026-07-18T08:50:37.697641+09:00",
+   "category": "mame",
+   "topic_id": "m026",
+   "text_head": "参拝するなら小銭の用意は大事。お賽銭は500円玉や100円玉があるとスムーズだし",
    "self_replied": false,
    "measured": false
   }
