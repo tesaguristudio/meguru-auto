@@ -1,8 +1,9 @@
 {
- "post_count": 12,
+ "post_count": 13,
  "used_ids": [
   "m039",
-  "s024"
+  "s024",
+  "k002"
  ],
  "mame_vol": 1,
  "last_posts": [
@@ -111,6 +112,15 @@
    "category": "season",
    "topic_id": "cal-07-17",
    "text_head": "祇園祭の季節ですね。八坂神社は7月まるごと祭事で、その間の限定御朱印も見どころ。",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2078088427887538555",
+   "posted_at": "2026-07-17T21:04:26.574837+09:00",
+   "category": "season",
+   "topic_id": "k002",
+   "text_head": "6月末の夏越の大祓、茅の輪くぐりに参拝してきました。半年の穢れを祓う神事で、8の",
    "self_replied": false,
    "measured": false
   }
