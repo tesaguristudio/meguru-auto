@@ -1,10 +1,11 @@
 {
- "post_count": 14,
+ "post_count": 15,
  "used_ids": [
   "m039",
   "s024",
   "k002",
-  "m026"
+  "m026",
+  "s006"
  ],
  "mame_vol": 2,
  "last_posts": [
@@ -131,6 +132,15 @@
    "category": "mame",
    "topic_id": "m026",
    "text_head": "参拝するなら小銭の用意は大事。お賽銭は500円玉や100円玉があるとスムーズだし",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2078628842756039087",
+   "posted_at": "2026-07-19T08:51:51.245845+09:00",
+   "category": "spot",
+   "topic_id": "s006",
+   "text_head": "浅草寺の御朱印をもらってきました。雷門をくぐると、いつも独特の空気感が。都内最古",
    "self_replied": false,
    "measured": false
   }
