@@ -1,5 +1,5 @@
 {
- "post_count": 16,
+ "post_count": 17,
  "used_ids": [
   "m039",
   "s024",
@@ -151,6 +151,15 @@
    "category": "question",
    "topic_id": "q005",
    "text_head": "参拝記録の残し方、人それぞれですよね。手帳にまとめる派、御朱印の写真を整理する派",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2079542201273417904",
+   "posted_at": "2026-07-21T21:21:13.359795+09:00",
+   "category": "season",
+   "topic_id": "cal-07-25",
+   "text_head": "大阪天満宮の天神祭、初めて参拝してきました。日本三大祭の迫力を肌で感じるって本当",
    "self_replied": false,
    "measured": false
   }
