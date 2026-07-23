@@ -1,5 +1,5 @@
 {
- "post_count": 17,
+ "post_count": 18,
  "used_ids": [
   "m039",
   "s024",
@@ -162,6 +162,15 @@
    "text_head": "大阪天満宮の天神祭、初めて参拝してきました。日本三大祭の迫力を肌で感じるって本当",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2080266892929806434",
+   "posted_at": "2026-07-23T21:20:53.092486+09:00",
+   "category": "season",
+   "topic_id": "cal-07-25",
+   "text_head": "大阪天満宮の天神祭、毎年この季節の風物詩ですね⛩ 日本三大祭の一つとあって、参拝",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
