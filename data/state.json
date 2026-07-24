@@ -1,5 +1,5 @@
 {
- "post_count": 18,
+ "post_count": 19,
  "used_ids": [
   "m039",
   "s024",
@@ -169,6 +169,15 @@
    "category": "season",
    "topic_id": "cal-07-25",
    "text_head": "大阪天満宮の天神祭、毎年この季節の風物詩ですね⛩ 日本三大祭の一つとあって、参拝",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2080635438809899134",
+   "posted_at": "2026-07-24T21:45:21.294208+09:00",
+   "category": "season",
+   "topic_id": "cal-07-25",
+   "text_head": "大阪天満宮の天神祭、行ってきました。日本三大祭のひとつだけあって、参道の熱気がす",
    "self_replied": false,
    "measured": false
   }
