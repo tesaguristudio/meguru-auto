@@ -1,14 +1,15 @@
 {
- "post_count": 20,
+ "post_count": 21,
  "used_ids": [
   "m039",
   "s024",
   "k002",
   "m026",
   "s006",
-  "q005"
+  "q005",
+  "m037"
  ],
- "mame_vol": 2,
+ "mame_vol": 3,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -187,6 +188,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝記録が増えてくると、あの神社いつ行ったっけ？って忘れちゃいませんか。自分用に",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2081167258974671263",
+   "posted_at": "2026-07-26T08:58:37.623034+09:00",
+   "category": "mame",
+   "topic_id": "m037",
+   "text_head": "御朱印帳の最初のページは伊勢神宮用に空けるという話、聞いたことある人多いと思いま",
    "self_replied": false,
    "measured": false
   }
