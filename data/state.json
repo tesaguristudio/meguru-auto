@@ -1,5 +1,5 @@
 {
- "post_count": 21,
+ "post_count": 22,
  "used_ids": [
   "m039",
   "s024",
@@ -7,7 +7,8 @@
   "m026",
   "s006",
   "q005",
-  "m037"
+  "m037",
+  "k013"
  ],
  "mame_vol": 3,
  "last_posts": [
@@ -199,6 +200,15 @@
    "text_head": "御朱印帳の最初のページは伊勢神宮用に空けるという話、聞いたことある人多いと思いま",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2081735221079400640",
+   "posted_at": "2026-07-27T22:35:29.720886+09:00",
+   "category": "season",
+   "topic_id": "k013",
+   "text_head": "春は桜デザインの限定御朱印が最も多い季節。同じ神社でも月ごとに異なる桜の描き方、",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
