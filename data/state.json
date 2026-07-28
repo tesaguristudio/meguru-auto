@@ -1,5 +1,5 @@
 {
- "post_count": 22,
+ "post_count": 23,
  "used_ids": [
   "m039",
   "s024",
@@ -207,6 +207,15 @@
    "category": "season",
    "topic_id": "k013",
    "text_head": "春は桜デザインの限定御朱印が最も多い季節。同じ神社でも月ごとに異なる桜の描き方、",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2082086453941526863",
+   "posted_at": "2026-07-28T21:51:10.141914+09:00",
+   "category": "season",
+   "topic_id": "cal-08-01",
+   "text_head": "旧暦8月1日は八朔。夏本番の参拝シーズンです⛩\n\n季節の変わり目、神社仏閣を訪れ",
    "self_replied": false,
    "measured": false
   }
