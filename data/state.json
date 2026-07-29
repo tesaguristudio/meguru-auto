@@ -1,5 +1,5 @@
 {
- "post_count": 23,
+ "post_count": 24,
  "used_ids": [
   "m039",
   "s024",
@@ -216,6 +216,15 @@
    "category": "season",
    "topic_id": "cal-08-01",
    "text_head": "旧暦8月1日は八朔。夏本番の参拝シーズンです⛩\n\n季節の変わり目、神社仏閣を訪れ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2082450369393697112",
+   "posted_at": "2026-07-29T21:57:14.295704+09:00",
+   "category": "season",
+   "topic_id": "cal-08-01",
+   "text_head": "旧暦8月1日は八朔。夏本番のこの時期、神社への挨拶参拝をする風習があるんですね。",
    "self_replied": false,
    "measured": false
   }
