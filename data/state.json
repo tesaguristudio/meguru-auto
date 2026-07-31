@@ -1,5 +1,5 @@
 {
- "post_count": 25,
+ "post_count": 26,
  "used_ids": [
   "m039",
   "s024",
@@ -234,6 +234,15 @@
    "category": "season",
    "topic_id": "cal-08-01",
    "text_head": "八朔（はっさく）は旧暦8月1日の挨拶の日。昔から「夏本番の参拝日」とされてきたよ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2083173829866840302",
+   "posted_at": "2026-07-31T21:52:01.042938+09:00",
+   "category": "season",
+   "topic_id": "cal-08-01",
+   "text_head": "旧暦8月1日の八朔（はっさく）。夏本番の挨拶の日とされてます。この時季、参拝する",
    "self_replied": false,
    "measured": false
   }
