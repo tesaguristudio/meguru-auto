@@ -1,5 +1,5 @@
 {
- "post_count": 27,
+ "post_count": 28,
  "used_ids": [
   "m039",
   "s024",
@@ -8,7 +8,8 @@
   "s006",
   "q005",
   "m037",
-  "k013"
+  "k013",
+  "s012"
  ],
  "mame_vol": 3,
  "last_posts": [
@@ -253,6 +254,15 @@
    "topic_id": "cal-08-01",
    "text_head": "旧暦8月1日は八朔。夏本番、参拝に良い季節ですね。⛩\n\n夏の日差しの中での参拝は",
    "self_replied": true,
+   "measured": false
+  },
+  {
+   "tweet_id": "2083703036010959258",
+   "posted_at": "2026-08-02T08:54:53.425913+09:00",
+   "category": "spot",
+   "topic_id": "s012",
+   "text_head": "住吉大社⛩の反橋、夏の光の中で見ると格別ですね。全国住吉神社の総本社だけあって、",
+   "self_replied": false,
    "measured": false
   }
  ]
