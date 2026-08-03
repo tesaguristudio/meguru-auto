@@ -1,5 +1,5 @@
 {
- "post_count": 28,
+ "post_count": 29,
  "used_ids": [
   "m039",
   "s024",
@@ -9,9 +9,10 @@
   "q005",
   "m037",
   "k013",
-  "s012"
+  "s012",
+  "m043"
  ],
- "mame_vol": 3,
+ "mame_vol": 4,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -264,6 +265,15 @@
    "text_head": "住吉大社⛩の反橋、夏の光の中で見ると格別ですね。全国住吉神社の総本社だけあって、",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2084211587666096129",
+   "posted_at": "2026-08-03T18:35:42.385387+09:00",
+   "category": "mame",
+   "topic_id": "m043",
+   "text_head": "夏の御朱印が深い墨色になってるの気付きました？季節ごとに墨を変えてる神社が結構あ",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
