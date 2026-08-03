@@ -65,7 +65,7 @@ def pick_topic(state: dict, now: datetime, cfg: dict) -> dict:
         state["used_ids"] = []
         unused = db
     # カテゴリ加重(学習ループで将来調整可能)
-    weights = {"mame": 4, "spot": 3, "season": 2, "dev": 2, "question": 2}
+    weights = {"mame": 6, "spot": 1, "season": 4, "dev": 2, "question": 1}
     pool = [x for x in unused for _ in range(weights.get(x["category"], 1))]
     return random.choice(pool)
 
