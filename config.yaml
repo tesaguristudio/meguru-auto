@@ -6,8 +6,8 @@
 app:
   name: "meguru(めぐる)"
   description: "参拝した神社仏閣をサッと記録・御朱印写真をコレクションできる個人開発アプリ"
-  ios_url: "https://apps.apple.com/jp/app/XXXXXXXX"      # ← 実際のURLに変更
-  android_url: "https://play.google.com/store/apps/details?id=XXXXXXXX"  # ← 実際のURLに変更
+  ios_url: "https://apps.apple.com/jp/app/id6763484099"      # ← 実際のURLに変更
+  android_url: "https://play.google.com/store/apps/details?id=com.meguru.app"  # ← 実際のURLに変更
 
 claude:
   model: "claude-haiku-4-5-20251001"   # 文面生成用(軽量・低コスト)
