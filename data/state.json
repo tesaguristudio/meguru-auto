@@ -1,5 +1,5 @@
 {
- "post_count": 29,
+ "post_count": 30,
  "used_ids": [
   "m039",
   "s024",
@@ -272,6 +272,15 @@
    "category": "mame",
    "topic_id": "m043",
    "text_head": "夏の御朱印が深い墨色になってるの気付きました？季節ごとに墨を変えてる神社が結構あ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2084283680260837822",
+   "posted_at": "2026-08-03T23:22:09.745344+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝の記録、どうしてますか？私は御朱印帳に書いてもらうのはもちろん、写真もたくさ",
    "self_replied": false,
    "measured": false
   }
