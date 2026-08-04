@@ -1,5 +1,5 @@
 {
- "post_count": 30,
+ "post_count": 31,
  "used_ids": [
   "m039",
   "s024",
@@ -10,7 +10,8 @@
   "m037",
   "k013",
   "s012",
-  "m043"
+  "m043",
+  "k001"
  ],
  "mame_vol": 4,
  "last_posts": [
@@ -281,6 +282,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝の記録、どうしてますか？私は御朱印帳に書いてもらうのはもちろん、写真もたくさ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2084638831039643684",
+   "posted_at": "2026-08-04T22:53:24.404323+09:00",
+   "category": "season",
+   "topic_id": "k001",
+   "text_head": "夏詣って知ってますか？6月末の夏越の大祓から始まる参拝文化で、浅草神社が発祥だそ",
    "self_replied": false,
    "measured": false
   }
