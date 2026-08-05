@@ -1,5 +1,5 @@
 {
- "post_count": 31,
+ "post_count": 32,
  "used_ids": [
   "m039",
   "s024",
@@ -11,9 +11,10 @@
   "k013",
   "s012",
   "m043",
-  "k001"
+  "k001",
+  "m049"
  ],
- "mame_vol": 4,
+ "mame_vol": 5,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -291,6 +292,15 @@
    "category": "season",
    "topic_id": "k001",
    "text_head": "夏詣って知ってますか？6月末の夏越の大祓から始まる参拝文化で、浅草神社が発祥だそ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2085000319575191610",
+   "posted_at": "2026-08-05T22:49:51.618161+09:00",
+   "category": "mame",
+   "topic_id": "m049",
+   "text_head": "御朱印をよく見ると『謹書』って書いてあることがあります。これは書き手が敬意を込め",
    "self_replied": false,
    "measured": false
   }
