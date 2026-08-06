@@ -1,5 +1,5 @@
 {
- "post_count": 32,
+ "post_count": 33,
  "used_ids": [
   "m039",
   "s024",
@@ -12,9 +12,10 @@
   "s012",
   "m043",
   "k001",
-  "m049"
+  "m049",
+  "m014"
  ],
- "mame_vol": 5,
+ "mame_vol": 6,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -301,6 +302,15 @@
    "category": "mame",
    "topic_id": "m049",
    "text_head": "御朱印をよく見ると『謹書』って書いてあることがあります。これは書き手が敬意を込め",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2085362010405958043",
+   "posted_at": "2026-08-06T22:47:04.605485+09:00",
+   "category": "mame",
+   "topic_id": "m014",
+   "text_head": "狛犬の「阿吽」って、口を開けた方が阿形、閉じた方が吽形。物事の始まりと終わりを表",
    "self_replied": false,
    "measured": false
   }
