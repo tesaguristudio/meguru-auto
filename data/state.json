@@ -1,5 +1,5 @@
 {
- "post_count": 34,
+ "post_count": 35,
  "used_ids": [
   "m039",
   "s024",
@@ -14,9 +14,10 @@
   "k001",
   "m049",
   "m014",
-  "m009"
+  "m009",
+  "m038"
  ],
- "mame_vol": 7,
+ "mame_vol": 8,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -321,6 +322,15 @@
    "category": "mame",
    "topic_id": "m009",
    "text_head": "限定御朱印って、寺社の公式SNSをフォローするのが一番早いんですよね⛩️月替わり",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2085871332776915289",
+   "posted_at": "2026-08-08T08:30:56.367933+09:00",
+   "category": "mame",
+   "topic_id": "m038",
+   "text_head": "朝の参拝、本当におすすめです。空気が違う。境内も静かで、自分のペースで御朱印帳と",
    "self_replied": false,
    "measured": false
   }
