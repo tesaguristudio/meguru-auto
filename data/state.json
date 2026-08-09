@@ -323,7 +323,7 @@
    "topic_id": "m009",
    "text_head": "限定御朱印って、寺社の公式SNSをフォローするのが一番早いんですよね⛩️月替わり",
    "self_replied": true,
-   "measured": false
+   "measured": true
   },
   {
    "tweet_id": "2085871332776915289",
@@ -332,7 +332,7 @@
    "topic_id": "m038",
    "text_head": "朝の参拝、本当におすすめです。空気が違う。境内も静かで、自分のペースで御朱印帳と",
    "self_replied": false,
-   "measured": false
+   "measured": true
   }
  ]
 }
