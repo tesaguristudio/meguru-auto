@@ -1,5 +1,5 @@
 {
- "post_count": 35,
+ "post_count": 36,
  "used_ids": [
   "m039",
   "s024",
@@ -333,6 +333,15 @@
    "text_head": "朝の参拝、本当におすすめです。空気が違う。境内も静かで、自分のペースで御朱印帳と",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2086797771399639112",
+   "posted_at": "2026-08-10T21:52:16.048331+09:00",
+   "category": "season",
+   "topic_id": "cal-08-13",
+   "text_head": "帰省先の氏神様にお参り。お盆は祖先をお迎えする時期だからこそ、地元の神社で手を合",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
