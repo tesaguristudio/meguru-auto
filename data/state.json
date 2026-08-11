@@ -1,5 +1,5 @@
 {
- "post_count": 36,
+ "post_count": 37,
  "used_ids": [
   "m039",
   "s024",
@@ -340,6 +340,15 @@
    "category": "season",
    "topic_id": "cal-08-13",
    "text_head": "帰省先の氏神様にお参り。お盆は祖先をお迎えする時期だからこそ、地元の神社で手を合",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2087158742127149494",
+   "posted_at": "2026-08-11T21:46:37.669484+09:00",
+   "category": "season",
+   "topic_id": "cal-08-13",
+   "text_head": "帰省先の氏神様にお参りしました。お盆は祖先の霊が帰ってくるといわれる時期。地元の",
    "self_replied": false,
    "measured": false
   }
