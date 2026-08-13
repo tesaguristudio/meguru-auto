@@ -1,5 +1,5 @@
 {
- "post_count": 38,
+ "post_count": 39,
  "used_ids": [
   "m039",
   "s024",
@@ -15,9 +15,10 @@
   "m049",
   "m014",
   "m009",
-  "m038"
+  "m038",
+  "m015"
  ],
- "mame_vol": 8,
+ "mame_vol": 9,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -358,6 +359,15 @@
    "category": "season",
    "topic_id": "cal-08-13",
    "text_head": "お盆は帰省先の氏神様に参拝する大切な時季ですね。先日、実家近くのお寺の盆行事に立",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2087885157671829636",
+   "posted_at": "2026-08-13T21:53:09.790971+09:00",
+   "category": "mame",
+   "topic_id": "m015",
+   "text_head": "神社の称号って、実は格式を表してるんですね。\n\n神宮は皇室ゆかりで最高位。大社は",
    "self_replied": false,
    "measured": false
   }
