@@ -1,5 +1,5 @@
 {
- "post_count": 39,
+ "post_count": 40,
  "used_ids": [
   "m039",
   "s024",
@@ -368,6 +368,15 @@
    "category": "mame",
    "topic_id": "m015",
    "text_head": "神社の称号って、実は格式を表してるんですね。\n\n神宮は皇室ゆかりで最高位。大社は",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2088246006068678868",
+   "posted_at": "2026-08-14T21:47:01.991416+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝記録をサッと残しておくと、後から見返すのが楽しいんですよね。御朱印の写真と一",
    "self_replied": false,
    "measured": false
   }
