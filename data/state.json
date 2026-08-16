@@ -380,7 +380,7 @@
    "topic_id": "promo",
    "text_head": "参拝記録をサッと残しておくと、後から見返すのが楽しいんですよね。御朱印の写真と一",
    "self_replied": false,
-   "measured": false
+   "measured": true
   },
   {
    "tweet_id": "2088404977748189350",
@@ -389,7 +389,7 @@
    "topic_id": "d005",
    "text_head": "神社の位置データ、意外と複雑なんですよね。同じ神社でも住所表記が複数あったり、山",
    "self_replied": false,
-   "measured": false
+   "measured": true
   },
   {
    "tweet_id": "2088766998901633441",
