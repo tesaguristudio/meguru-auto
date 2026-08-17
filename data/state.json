@@ -1,5 +1,5 @@
 {
- "post_count": 42,
+ "post_count": 43,
  "used_ids": [
   "m039",
   "s024",
@@ -18,9 +18,10 @@
   "m038",
   "m015",
   "d005",
-  "s038"
+  "s038",
+  "m031"
  ],
- "mame_vol": 9,
+ "mame_vol": 10,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -399,6 +400,15 @@
    "text_head": "諏訪大社の御柱祭、7年ごとに行われる日本三大奇祭の一つですね。山から樹齢200年",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2089328436128944515",
+   "posted_at": "2026-08-17T21:28:14.122955+09:00",
+   "category": "mame",
+   "topic_id": "m031",
+   "text_head": "「御朱印ガール」って2010年代に流行った言葉ですよね。最初は若い女性向けの呼び",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
