@@ -1,5 +1,5 @@
 {
- "post_count": 43,
+ "post_count": 44,
  "used_ids": [
   "m039",
   "s024",
@@ -19,9 +19,10 @@
   "m015",
   "d005",
   "s038",
-  "m031"
+  "m031",
+  "m010"
  ],
- "mame_vol": 10,
+ "mame_vol": 11,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -407,6 +408,15 @@
    "category": "mame",
    "topic_id": "m031",
    "text_head": "「御朱印ガール」って2010年代に流行った言葉ですよね。最初は若い女性向けの呼び",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2089691341491970159",
+   "posted_at": "2026-08-18T21:30:17.702737+09:00",
+   "category": "mame",
+   "topic_id": "m010",
+   "text_head": "御朱印帳、実は2サイズあるのご存知？小判(11×16cm)と大判(12×18cm",
    "self_replied": false,
    "measured": false
   }
