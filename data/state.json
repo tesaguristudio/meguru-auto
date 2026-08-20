@@ -1,5 +1,5 @@
 {
- "post_count": 45,
+ "post_count": 46,
  "used_ids": [
   "m039",
   "s024",
@@ -21,9 +21,10 @@
   "s038",
   "m031",
   "m010",
-  "m012"
+  "m012",
+  "m006"
  ],
- "mame_vol": 12,
+ "mame_vol": 13,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -427,6 +428,15 @@
    "category": "mame",
    "topic_id": "m012",
    "text_head": "手水の正しい作法、意外と忘れちゃいますよね。左手→右手→口→左手→柄杓の柄の順で",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2090416672675078608",
+   "posted_at": "2026-08-20T21:32:29.827260+09:00",
+   "category": "mame",
+   "topic_id": "m006",
+   "text_head": "御朱印帳の使い方、実は諸説あるんです。表紙から蛇腹状に順番に埋めるのが基本ですが",
    "self_replied": false,
    "measured": false
   }
