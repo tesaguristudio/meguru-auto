@@ -1,5 +1,5 @@
 {
- "post_count": 47,
+ "post_count": 48,
  "used_ids": [
   "m039",
   "s024",
@@ -23,7 +23,8 @@
   "m010",
   "m012",
   "m006",
-  "m008"
+  "m008",
+  "k011"
  ],
  "mame_vol": 14,
  "last_posts": [
@@ -447,6 +448,15 @@
    "category": "mame",
    "topic_id": "m008",
    "text_head": "御朱印はスタンプラリーではなく、参拝の証。まずお参りすることが基本です。⛩\n\n手",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2090942149021872539",
+   "posted_at": "2026-08-22T08:20:32.487509+09:00",
+   "category": "season",
+   "topic_id": "k011",
+   "text_head": "節分の豆まきは、邪気を払う神事として古くから大切にされてきました。有名寺社では著",
    "self_replied": false,
    "measured": false
   }
