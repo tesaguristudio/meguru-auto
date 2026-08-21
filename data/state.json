@@ -1,5 +1,5 @@
 {
- "post_count": 46,
+ "post_count": 47,
  "used_ids": [
   "m039",
   "s024",
@@ -22,9 +22,10 @@
   "m031",
   "m010",
   "m012",
-  "m006"
+  "m006",
+  "m008"
  ],
- "mame_vol": 13,
+ "mame_vol": 14,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -437,6 +438,15 @@
    "category": "mame",
    "topic_id": "m006",
    "text_head": "御朱印帳の使い方、実は諸説あるんです。表紙から蛇腹状に順番に埋めるのが基本ですが",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2090778797473730739",
+   "posted_at": "2026-08-21T21:31:27.807528+09:00",
+   "category": "mame",
+   "topic_id": "m008",
+   "text_head": "御朱印はスタンプラリーではなく、参拝の証。まずお参りすることが基本です。⛩\n\n手",
    "self_replied": false,
    "measured": false
   }
