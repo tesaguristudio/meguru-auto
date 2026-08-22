@@ -1,5 +1,5 @@
 {
- "post_count": 48,
+ "post_count": 49,
  "used_ids": [
   "m039",
   "s024",
@@ -24,9 +24,10 @@
   "m012",
   "m006",
   "m008",
-  "k011"
+  "k011",
+  "m046"
  ],
- "mame_vol": 14,
+ "mame_vol": 15,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -457,6 +458,15 @@
    "category": "season",
    "topic_id": "k011",
    "text_head": "節分の豆まきは、邪気を払う神事として古くから大切にされてきました。有名寺社では著",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2091303846563987686",
+   "posted_at": "2026-08-23T08:17:49.357800+09:00",
+   "category": "mame",
+   "topic_id": "m046",
+   "text_head": "神社とお寺で御朱印帳の向きを変えるの、ご存知ですか？⛩\n\n神社は右開き（和本式）",
    "self_replied": false,
    "measured": false
   }
