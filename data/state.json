@@ -1,5 +1,5 @@
 {
- "post_count": 49,
+ "post_count": 50,
  "used_ids": [
   "m039",
   "s024",
@@ -469,6 +469,15 @@
    "text_head": "神社とお寺で御朱印帳の向きを変えるの、ご存知ですか？⛩\n\n神社は右開き（和本式）",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2091866356098441465",
+   "posted_at": "2026-08-24T21:33:00.592258+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝した神社仏閣の記録、どうしてますか？僕は推し寺社の御朱印写真をサッと保存でき",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
