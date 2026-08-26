@@ -1,5 +1,5 @@
 {
- "post_count": 51,
+ "post_count": 52,
  "used_ids": [
   "m039",
   "s024",
@@ -26,7 +26,8 @@
   "m008",
   "k011",
   "m046",
-  "s015"
+  "s015",
+  "s031"
  ],
  "mame_vol": 15,
  "last_posts": [
@@ -486,6 +487,15 @@
    "category": "spot",
    "topic_id": "s015",
    "text_head": "諏訪大社は上社・下社で計4宮。全部巡ると御朱印4種集められるんです⛩️ 御柱祭で",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2092592036343939560",
+   "posted_at": "2026-08-26T21:36:41.156797+09:00",
+   "category": "spot",
+   "topic_id": "s031",
+   "text_head": "日光東照宮の社紋、徳川家の家紋『三つ葉葵』を見たことありますか？⛩\n\n建物の随所",
    "self_replied": false,
    "measured": false
   }
