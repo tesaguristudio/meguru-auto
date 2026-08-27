@@ -1,5 +1,5 @@
 {
- "post_count": 52,
+ "post_count": 53,
  "used_ids": [
   "m039",
   "s024",
@@ -27,9 +27,10 @@
   "k011",
   "m046",
   "s015",
-  "s031"
+  "s031",
+  "m011"
  ],
- "mame_vol": 15,
+ "mame_vol": 16,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -498,6 +499,15 @@
    "text_head": "日光東照宮の社紋、徳川家の家紋『三つ葉葵』を見たことありますか？⛩\n\n建物の随所",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2093089114836853187",
+   "posted_at": "2026-08-28T06:31:50.314665+09:00",
+   "category": "mame",
+   "topic_id": "m011",
+   "text_head": "二礼二拍手一礼、これが標準だと思ってた時期が私にもありました。実は明治以降に統一",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
