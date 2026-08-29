@@ -1,5 +1,5 @@
 {
- "post_count": 54,
+ "post_count": 55,
  "used_ids": [
   "m039",
   "s024",
@@ -516,6 +516,15 @@
    "category": "mame",
    "topic_id": "m045",
    "text_head": "「納経」と「参拝」って別物なんですよね。参拝は誰でもできますが、納経は本来、経典",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2093549369543057794",
+   "posted_at": "2026-08-29T13:00:42.598123+09:00",
+   "category": "season",
+   "topic_id": "cal-09-01",
+   "text_head": "防災の日が近いですね。参拝する時は、災難除けや厄除けの神社を訪れる人も多いのでは",
    "self_replied": false,
    "measured": false
   }
