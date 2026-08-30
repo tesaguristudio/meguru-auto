@@ -1,5 +1,5 @@
 {
- "post_count": 55,
+ "post_count": 56,
  "used_ids": [
   "m039",
   "s024",
@@ -29,7 +29,8 @@
   "s015",
   "s031",
   "m011",
-  "m045"
+  "m045",
+  "s019"
  ],
  "mame_vol": 17,
  "last_posts": [
@@ -525,6 +526,15 @@
    "category": "season",
    "topic_id": "cal-09-01",
    "text_head": "防災の日が近いですね。参拝する時は、災難除けや厄除けの神社を訪れる人も多いのでは",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2093866574541193466",
+   "posted_at": "2026-08-30T10:01:10.166260+09:00",
+   "category": "spot",
+   "topic_id": "s019",
+   "text_head": "高野山の奥之院を歩くと、時間が違う世界に入ったような感覚になります。樹齢数百年の",
    "self_replied": false,
    "measured": false
   }
