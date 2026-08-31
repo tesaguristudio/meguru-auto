@@ -1,5 +1,5 @@
 {
- "post_count": 56,
+ "post_count": 57,
  "used_ids": [
   "m039",
   "s024",
@@ -537,6 +537,15 @@
    "text_head": "高野山の奥之院を歩くと、時間が違う世界に入ったような感覚になります。樹齢数百年の",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2094493745538330685",
+   "posted_at": "2026-09-01T03:33:18.956938+09:00",
+   "category": "season",
+   "topic_id": "cal-09-01",
+   "text_head": "9月1日は防災の日。参拝の際、災難除けの神社に立ち寄ることはありませんか？⛩\n\n",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
