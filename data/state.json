@@ -1,5 +1,5 @@
 {
- "post_count": 57,
+ "post_count": 58,
  "used_ids": [
   "m039",
   "s024",
@@ -30,9 +30,10 @@
   "s031",
   "m011",
   "m045",
-  "s019"
+  "s019",
+  "m044"
  ],
- "mame_vol": 17,
+ "mame_vol": 18,
  "last_posts": [
   {
    "tweet_id": "2073557429254504744",
@@ -544,6 +545,15 @@
    "category": "season",
    "topic_id": "cal-09-01",
    "text_head": "9月1日は防災の日。参拝の際、災難除けの神社に立ち寄ることはありませんか？⛩\n\n",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2094815529940718027",
+   "posted_at": "2026-09-02T00:51:59.765044+09:00",
+   "category": "mame",
+   "topic_id": "m044",
+   "text_head": "御朱印の押印順序、寺社によって異なることご存知ですか？⛩\n\n朱印を先に押してから",
    "self_replied": false,
    "measured": false
   }
