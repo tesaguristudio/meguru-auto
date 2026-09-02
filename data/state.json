@@ -1,5 +1,5 @@
 {
- "post_count": 58,
+ "post_count": 59,
  "used_ids": [
   "m039",
   "s024",
@@ -31,7 +31,8 @@
   "m011",
   "m045",
   "s019",
-  "m044"
+  "m044",
+  "k003"
  ],
  "mame_vol": 18,
  "last_posts": [
@@ -554,6 +555,15 @@
    "category": "mame",
    "topic_id": "m044",
    "text_head": "御朱印の押印順序、寺社によって異なることご存知ですか？⛩\n\n朱印を先に押してから",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2095176621527552176",
+   "posted_at": "2026-09-03T00:46:49.714025+09:00",
+   "category": "season",
+   "topic_id": "k003",
+   "text_head": "夏は風鈴御朱印の季節⛩いま川越や各地で風鈴祭りが盛り上がってて、夏限定の御朱印も",
    "self_replied": false,
    "measured": false
   }
