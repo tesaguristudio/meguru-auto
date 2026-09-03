@@ -1,5 +1,5 @@
 {
- "post_count": 59,
+ "post_count": 60,
  "used_ids": [
   "m039",
   "s024",
@@ -564,6 +564,15 @@
    "category": "season",
    "topic_id": "k003",
    "text_head": "夏は風鈴御朱印の季節⛩いま川越や各地で風鈴祭りが盛り上がってて、夏限定の御朱印も",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2095535838981730521",
+   "posted_at": "2026-09-04T00:34:13.404479+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝記録って、後で見返すと思い出が蘇るんですよね。御朱印の日付、訪れた季節、その",
    "self_replied": false,
    "measured": false
   }
