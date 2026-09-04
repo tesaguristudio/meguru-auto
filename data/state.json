@@ -1,5 +1,5 @@
 {
- "post_count": 60,
+ "post_count": 61,
  "used_ids": [
   "m039",
   "s024",
@@ -32,19 +32,11 @@
   "m045",
   "s019",
   "m044",
-  "k003"
+  "k003",
+  "m020"
  ],
- "mame_vol": 18,
+ "mame_vol": 19,
  "last_posts": [
-  {
-   "tweet_id": "2073557429254504744",
-   "posted_at": "2026-07-05T08:59:53.641856+09:00",
-   "category": "mame",
-   "topic_id": "m039",
-   "text_head": "神社で見かける神職と巫女さん、実は役割が違うんですよね。神職は資格を持つ祭祀の専",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2074136767868104788",
    "posted_at": "2026-07-06T23:21:57.192185+09:00",
@@ -573,6 +565,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝記録って、後で見返すと思い出が蘇るんですよね。御朱印の日付、訪れた季節、その",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2095897929038831832",
+   "posted_at": "2026-09-05T00:33:03.550000+09:00",
+   "category": "mame",
+   "topic_id": "m020",
+   "text_head": "御朱印に『奉拝』と書かれているの、見かけたことありませんか？これは『つつしんで拝",
    "self_replied": false,
    "measured": false
   }
