@@ -1,5 +1,5 @@
 {
- "post_count": 61,
+ "post_count": 62,
  "used_ids": [
   "m039",
   "s024",
@@ -33,19 +33,11 @@
   "s019",
   "m044",
   "k003",
-  "m020"
+  "m020",
+  "m048"
  ],
- "mame_vol": 19,
+ "mame_vol": 20,
  "last_posts": [
-  {
-   "tweet_id": "2074136767868104788",
-   "posted_at": "2026-07-06T23:21:57.192185+09:00",
-   "category": "season",
-   "topic_id": "cal-07-07",
-   "text_head": "七夕限定の御朱印をいただきました⛩ 短冊と天の川のデザインが素敵で、季節感をしっ",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2074482209835110532",
    "posted_at": "2026-07-07T22:14:37.064119+09:00",
@@ -574,6 +566,15 @@
    "category": "mame",
    "topic_id": "m020",
    "text_head": "御朱印に『奉拝』と書かれているの、見かけたことありませんか？これは『つつしんで拝",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2096034509741244486",
+   "posted_at": "2026-09-05T09:35:47.302724+09:00",
+   "category": "mame",
+   "topic_id": "m048",
+   "text_head": "七福神巡り、御朱印好きにとって正月の楽しみですよね。7つの寺社をスタンプラリー式",
    "self_replied": false,
    "measured": false
   }
