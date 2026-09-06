@@ -567,7 +567,7 @@
    "category": "mame",
    "topic_id": "m048",
    "text_head": "七福神巡り、御朱印好きにとって正月の楽しみですよね。7つの寺社をスタンプラリー式",
-   "self_replied": false,
+   "self_replied": true,
    "measured": true
   },
   {
@@ -576,7 +576,7 @@
    "category": "mame",
    "topic_id": "m027",
    "text_head": "御朱印帳を忘れてしまった…そんな時も大丈夫です。多くの寺社では書き置きを用意して",
-   "self_replied": false,
+   "self_replied": true,
    "measured": false
   }
  ]
