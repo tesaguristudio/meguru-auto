@@ -1,5 +1,5 @@
 {
- "post_count": 62,
+ "post_count": 63,
  "used_ids": [
   "m039",
   "s024",
@@ -34,19 +34,11 @@
   "m044",
   "k003",
   "m020",
-  "m048"
+  "m048",
+  "m027"
  ],
- "mame_vol": 20,
+ "mame_vol": 21,
  "last_posts": [
-  {
-   "tweet_id": "2074482209835110532",
-   "posted_at": "2026-07-07T22:14:37.064119+09:00",
-   "category": "season",
-   "topic_id": "cal-07-09",
-   "text_head": "浅草寺のほおずき市、毎年この時期の楽しみです。四万六千日分のご利益があるとされる",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2074830032707457216",
    "posted_at": "2026-07-08T21:16:44.580587+09:00",
@@ -575,6 +567,15 @@
    "category": "mame",
    "topic_id": "m048",
    "text_head": "七福神巡り、御朱印好きにとって正月の楽しみですよね。7つの寺社をスタンプラリー式",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2096396226488889591",
+   "posted_at": "2026-09-06T09:33:07.081844+09:00",
+   "category": "mame",
+   "topic_id": "m027",
+   "text_head": "御朱印帳を忘れてしまった…そんな時も大丈夫です。多くの寺社では書き置きを用意して",
    "self_replied": false,
    "measured": false
   }
