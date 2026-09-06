@@ -559,7 +559,7 @@
    "topic_id": "m020",
    "text_head": "御朱印に『奉拝』と書かれているの、見かけたことありませんか？これは『つつしんで拝",
    "self_replied": true,
-   "measured": false
+   "measured": true
   },
   {
    "tweet_id": "2096034509741244486",
@@ -568,7 +568,7 @@
    "topic_id": "m048",
    "text_head": "七福神巡り、御朱印好きにとって正月の楽しみですよね。7つの寺社をスタンプラリー式",
    "self_replied": false,
-   "measured": false
+   "measured": true
   },
   {
    "tweet_id": "2096396226488889591",
