@@ -1,5 +1,5 @@
 {
- "post_count": 63,
+ "post_count": 64,
  "used_ids": [
   "m039",
   "s024",
@@ -35,19 +35,11 @@
   "k003",
   "m020",
   "m048",
-  "m027"
+  "m027",
+  "m004"
  ],
- "mame_vol": 21,
+ "mame_vol": 22,
  "last_posts": [
-  {
-   "tweet_id": "2074830032707457216",
-   "posted_at": "2026-07-08T21:16:44.580587+09:00",
-   "category": "season",
-   "topic_id": "cal-07-09",
-   "text_head": "明日から浅草寺のほおずき市！四万六千日の功徳があるとされる夏の縁日です。朝顔市と",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2075214723382133244",
    "posted_at": "2026-07-09T22:45:21.980759+09:00",
@@ -578,6 +570,15 @@
    "text_head": "御朱印帳を忘れてしまった…そんな時も大丈夫です。多くの寺社では書き置きを用意して",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2097006577672724647",
+   "posted_at": "2026-09-08T01:58:26.035706+09:00",
+   "category": "mame",
+   "topic_id": "m004",
+   "text_head": "御朱印の初穂料、いくら持ってったらいい？ご存知ですか？⛩\n\n一般的には300〜5",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
