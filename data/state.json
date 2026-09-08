@@ -1,5 +1,5 @@
 {
- "post_count": 64,
+ "post_count": 65,
  "used_ids": [
   "m039",
   "s024",
@@ -36,19 +36,11 @@
   "m020",
   "m048",
   "m027",
-  "m004"
+  "m004",
+  "m050"
  ],
- "mame_vol": 22,
+ "mame_vol": 23,
  "last_posts": [
-  {
-   "tweet_id": "2075214723382133244",
-   "posted_at": "2026-07-09T22:45:21.980759+09:00",
-   "category": "spot",
-   "topic_id": "s024",
-   "text_head": "榛名神社⛩️、巨岩に囲まれた参道を歩むだけで何か引き込まれる感じ。社殿が岩と一体",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2075567814736585107",
    "posted_at": "2026-07-10T22:08:25.440819+09:00",
@@ -577,6 +569,15 @@
    "category": "mame",
    "topic_id": "m004",
    "text_head": "御朱印の初穂料、いくら持ってったらいい？ご存知ですか？⛩\n\n一般的には300〜5",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2097350747096854836",
+   "posted_at": "2026-09-09T00:46:03.081437+09:00",
+   "category": "mame",
+   "topic_id": "m050",
+   "text_head": "神社の向きって、実は古代から決まってるんです。南向きか東向きが基本とされていて、",
    "self_replied": false,
    "measured": false
   }
