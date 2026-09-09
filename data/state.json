@@ -1,5 +1,5 @@
 {
- "post_count": 65,
+ "post_count": 66,
  "used_ids": [
   "m039",
   "s024",
@@ -37,19 +37,11 @@
   "m048",
   "m027",
   "m004",
-  "m050"
+  "m050",
+  "m052"
  ],
- "mame_vol": 23,
+ "mame_vol": 24,
  "last_posts": [
-  {
-   "tweet_id": "2075567814736585107",
-   "posted_at": "2026-07-10T22:08:25.440819+09:00",
-   "category": "season",
-   "topic_id": "cal-07-17",
-   "text_head": "祇園祭の季節がやってきました。八坂神社は7月まるごと祭事一色。巡行当日はもちろん",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2075730773957656817",
    "posted_at": "2026-07-11T08:55:57.888153+09:00",
@@ -578,6 +570,15 @@
    "category": "mame",
    "topic_id": "m050",
    "text_head": "神社の向きって、実は古代から決まってるんです。南向きか東向きが基本とされていて、",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2097724496870285601",
+   "posted_at": "2026-09-10T01:31:11.735450+09:00",
+   "category": "mame",
+   "topic_id": "m052",
+   "text_head": "参拝するたびに思うんですが、拝殿と本殿って役割が違うんですよね。拝殿は参拝者が礼",
    "self_replied": false,
    "measured": false
   }
