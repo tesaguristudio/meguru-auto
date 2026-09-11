@@ -1,5 +1,5 @@
 {
- "post_count": 67,
+ "post_count": 68,
  "used_ids": [
   "m039",
   "s024",
@@ -42,15 +42,6 @@
  ],
  "mame_vol": 24,
  "last_posts": [
-  {
-   "tweet_id": "2076092380277510391",
-   "posted_at": "2026-07-12T08:52:51.895789+09:00",
-   "category": "season",
-   "topic_id": "cal-07-17",
-   "text_head": "祇園祭の時期、八坂神社の限定御朱印が欲しくて参拝してきました。山鉾巡行の迫力も素",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2076656862225965497",
    "posted_at": "2026-07-13T22:15:54.595217+09:00",
@@ -579,6 +570,15 @@
    "category": "season",
    "topic_id": "cal-09-15",
    "text_head": "中秋の名月の時期、観月祭を催す神社が増えますね。月見と参拝を合わせるのって素敵だ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2098436048254902332",
+   "posted_at": "2026-09-12T00:38:37.411888+09:00",
+   "category": "season",
+   "topic_id": "cal-09-15",
+   "text_head": "中秋の名月、観月祭を行う神社で参拝してきました。月明かりの中での参拝って、昼間と",
    "self_replied": false,
    "measured": false
   }
