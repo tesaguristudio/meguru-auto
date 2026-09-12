@@ -1,5 +1,5 @@
 {
- "post_count": 68,
+ "post_count": 69,
  "used_ids": [
   "m039",
   "s024",
@@ -42,15 +42,6 @@
  ],
  "mame_vol": 24,
  "last_posts": [
-  {
-   "tweet_id": "2076656862225965497",
-   "posted_at": "2026-07-13T22:15:54.595217+09:00",
-   "category": "season",
-   "topic_id": "cal-07-17",
-   "text_head": "祇園祭の季節ですね。八坂神社では7月を通じて様々な祭事が行われていて、期間限定の",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2077001995848724799",
    "posted_at": "2026-07-14T21:07:20.881516+09:00",
@@ -579,6 +570,15 @@
    "category": "season",
    "topic_id": "cal-09-15",
    "text_head": "中秋の名月、観月祭を行う神社で参拝してきました。月明かりの中での参拝って、昼間と",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2098575721840955789",
+   "posted_at": "2026-09-12T09:53:37.868311+09:00",
+   "category": "season",
+   "topic_id": "cal-09-15",
+   "text_head": "秋分の日の前後、観月祭を行う神社が増えるようです。⛩ 月見と参拝を一緒にすると、",
    "self_replied": false,
    "measured": false
   }
