@@ -1,5 +1,5 @@
 {
- "post_count": 71,
+ "post_count": 72,
  "used_ids": [
   "m039",
   "s024",
@@ -38,19 +38,11 @@
   "m027",
   "m004",
   "m050",
-  "m052"
+  "m052",
+  "m028"
  ],
- "mame_vol": 24,
+ "mame_vol": 25,
  "last_posts": [
-  {
-   "tweet_id": "2077729194927145161",
-   "posted_at": "2026-07-16T21:16:58.747077+09:00",
-   "category": "season",
-   "topic_id": "cal-07-17",
-   "text_head": "祇園祭の季節ですね。八坂神社は7月まるごと祭事で、その間の限定御朱印も見どころ。",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2078088427887538555",
    "posted_at": "2026-07-17T21:04:26.574837+09:00",
@@ -579,6 +571,15 @@
    "category": "season",
    "topic_id": "cal-09-15",
    "text_head": "中秋の名月の頃、観月祭を行う神社が増えますよね。⛩\n\n月見といえば家で団子…とい",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2099890946645090710",
+   "posted_at": "2026-09-16T00:59:53.458483+09:00",
+   "category": "mame",
+   "topic_id": "m028",
+   "text_head": "神社で祀られている神様って、実は由緒書きで簡単に調べられるんです⛩\n\n参拝した時",
    "self_replied": false,
    "measured": false
   }
