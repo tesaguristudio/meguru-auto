@@ -1,5 +1,5 @@
 {
- "post_count": 72,
+ "post_count": 73,
  "used_ids": [
   "m039",
   "s024",
@@ -39,19 +39,11 @@
   "m004",
   "m050",
   "m052",
-  "m028"
+  "m028",
+  "k009"
  ],
  "mame_vol": 25,
  "last_posts": [
-  {
-   "tweet_id": "2078088427887538555",
-   "posted_at": "2026-07-17T21:04:26.574837+09:00",
-   "category": "season",
-   "topic_id": "k002",
-   "text_head": "6月末の夏越の大祓、茅の輪くぐりに参拝してきました。半年の穢れを祓う神事で、8の",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2078266141340840325",
    "posted_at": "2026-07-18T08:50:37.697641+09:00",
@@ -580,6 +572,15 @@
    "category": "mame",
    "topic_id": "m028",
    "text_head": "神社で祀られている神様って、実は由緒書きで簡単に調べられるんです⛩\n\n参拝した時",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2100251606675497077",
+   "posted_at": "2026-09-17T00:53:00.086333+09:00",
+   "category": "season",
+   "topic_id": "k009",
+   "text_head": "初詣っていつまでに行くべきかご存知ですか？⛩\n\n松の内（関東は1/7、関西は1/",
    "self_replied": false,
    "measured": false
   }
