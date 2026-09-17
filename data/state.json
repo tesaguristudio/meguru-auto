@@ -1,5 +1,5 @@
 {
- "post_count": 73,
+ "post_count": 74,
  "used_ids": [
   "m039",
   "s024",
@@ -40,19 +40,11 @@
   "m050",
   "m052",
   "m028",
-  "k009"
+  "k009",
+  "m035"
  ],
- "mame_vol": 25,
+ "mame_vol": 26,
  "last_posts": [
-  {
-   "tweet_id": "2078266141340840325",
-   "posted_at": "2026-07-18T08:50:37.697641+09:00",
-   "category": "mame",
-   "topic_id": "m026",
-   "text_head": "参拝するなら小銭の用意は大事。お賽銭は500円玉や100円玉があるとスムーズだし",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2078628842756039087",
    "posted_at": "2026-07-19T08:51:51.245845+09:00",
@@ -581,6 +573,15 @@
    "category": "season",
    "topic_id": "k009",
    "text_head": "初詣っていつまでに行くべきかご存知ですか？⛩\n\n松の内（関東は1/7、関西は1/",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2100615425658675658",
+   "posted_at": "2026-09-18T00:58:42.269422+09:00",
+   "category": "mame",
+   "topic_id": "m035",
+   "text_head": "切り絵御朱印、ご存知ですか？⛩\n\n近年、繊細な切り絵で表現された御朱印が人気を集",
    "self_replied": false,
    "measured": false
   }
