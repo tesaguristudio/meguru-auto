@@ -1,5 +1,5 @@
 {
- "post_count": 74,
+ "post_count": 75,
  "used_ids": [
   "m039",
   "s024",
@@ -41,19 +41,11 @@
   "m052",
   "m028",
   "k009",
-  "m035"
+  "m035",
+  "m034"
  ],
- "mame_vol": 26,
+ "mame_vol": 27,
  "last_posts": [
-  {
-   "tweet_id": "2078628842756039087",
-   "posted_at": "2026-07-19T08:51:51.245845+09:00",
-   "category": "spot",
-   "topic_id": "s006",
-   "text_head": "浅草寺の御朱印をもらってきました。雷門をくぐると、いつも独特の空気感が。都内最古",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2079190068682686868",
    "posted_at": "2026-07-20T22:01:58.124572+09:00",
@@ -582,6 +574,15 @@
    "category": "mame",
    "topic_id": "m035",
    "text_head": "切り絵御朱印、ご存知ですか？⛩\n\n近年、繊細な切り絵で表現された御朱印が人気を集",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2100971575893737639",
+   "posted_at": "2026-09-19T00:33:55.254212+09:00",
+   "category": "mame",
+   "topic_id": "m034",
+   "text_head": "御朱印の『揮毫（きごう）』ってご存知ですか？⛩\n\n毛筆で直筆される御朱印は、書き",
    "self_replied": false,
    "measured": false
   }
