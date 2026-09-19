@@ -1,5 +1,5 @@
 {
- "post_count": 75,
+ "post_count": 76,
  "used_ids": [
   "m039",
   "s024",
@@ -46,15 +46,6 @@
  ],
  "mame_vol": 27,
  "last_posts": [
-  {
-   "tweet_id": "2079190068682686868",
-   "posted_at": "2026-07-20T22:01:58.124572+09:00",
-   "category": "question",
-   "topic_id": "q005",
-   "text_head": "参拝記録の残し方、人それぞれですよね。手帳にまとめる派、御朱印の写真を整理する派",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2079542201273417904",
    "posted_at": "2026-07-21T21:21:13.359795+09:00",
@@ -583,6 +574,15 @@
    "category": "mame",
    "topic_id": "m034",
    "text_head": "御朱印の『揮毫（きごう）』ってご存知ですか？⛩\n\n毛筆で直筆される御朱印は、書き",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2101113194034999577",
+   "posted_at": "2026-09-19T09:56:38.645553+09:00",
+   "category": "season",
+   "topic_id": "cal-09-22",
+   "text_head": "秋分を過ぎると、お寺参りがいっそう心地よくなりますね。お彼岸は故人を想いながら参",
    "self_replied": false,
    "measured": false
   }
