@@ -1,5 +1,5 @@
 {
- "post_count": 76,
+ "post_count": 77,
  "used_ids": [
   "m039",
   "s024",
@@ -42,19 +42,11 @@
   "m028",
   "k009",
   "m035",
-  "m034"
+  "m034",
+  "k010"
  ],
  "mame_vol": 27,
  "last_posts": [
-  {
-   "tweet_id": "2079542201273417904",
-   "posted_at": "2026-07-21T21:21:13.359795+09:00",
-   "category": "season",
-   "topic_id": "cal-07-25",
-   "text_head": "大阪天満宮の天神祭、初めて参拝してきました。日本三大祭の迫力を肌で感じるって本当",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2080266892929806434",
    "posted_at": "2026-07-23T21:20:53.092486+09:00",
@@ -584,6 +576,15 @@
    "topic_id": "cal-09-22",
    "text_head": "秋分を過ぎると、お寺参りがいっそう心地よくなりますね。お彼岸は故人を想いながら参",
    "self_replied": true,
+   "measured": false
+  },
+  {
+   "tweet_id": "2101470714037715337",
+   "posted_at": "2026-09-20T09:37:17.941187+09:00",
+   "category": "season",
+   "topic_id": "k010",
+   "text_head": "初詣の御朱印、三が日は書き置きのみの寺社がほとんどなんですよね。混雑を避けたいな",
+   "self_replied": false,
    "measured": false
   }
  ]
