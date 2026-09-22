@@ -1,5 +1,5 @@
 {
- "post_count": 78,
+ "post_count": 79,
  "used_ids": [
   "m039",
   "s024",
@@ -43,19 +43,11 @@
   "k009",
   "m035",
   "m034",
-  "k010"
+  "k010",
+  "m005"
  ],
- "mame_vol": 27,
+ "mame_vol": 28,
  "last_posts": [
-  {
-   "tweet_id": "2080635438809899134",
-   "posted_at": "2026-07-24T21:45:21.294208+09:00",
-   "category": "season",
-   "topic_id": "cal-07-25",
-   "text_head": "大阪天満宮の天神祭、行ってきました。日本三大祭のひとつだけあって、参道の熱気がす",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2080805926462734674",
    "posted_at": "2026-07-25T09:02:48.643947+09:00",
@@ -584,6 +576,15 @@
    "category": "season",
    "topic_id": "cal-09-22",
    "text_head": "秋分を迎えると、お寺参りの季節って感じます。お彼岸は先祖を思いながら参拝する時間",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2102428305718726769",
+   "posted_at": "2026-09-23T01:02:26.891285+09:00",
+   "category": "mame",
+   "topic_id": "m005",
+   "text_head": "「お気持ちで」と言われたら、相場と同じ300〜500円を納めるのが無難かもです。",
    "self_replied": false,
    "measured": false
   }
