@@ -1,5 +1,5 @@
 {
- "post_count": 79,
+ "post_count": 80,
  "used_ids": [
   "m039",
   "s024",
@@ -48,15 +48,6 @@
  ],
  "mame_vol": 28,
  "last_posts": [
-  {
-   "tweet_id": "2080805926462734674",
-   "posted_at": "2026-07-25T09:02:48.643947+09:00",
-   "category": "promo",
-   "topic_id": "promo",
-   "text_head": "参拝記録が増えてくると、あの神社いつ行ったっけ？って忘れちゃいませんか。自分用に",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2081167258974671263",
    "posted_at": "2026-07-26T08:58:37.623034+09:00",
@@ -585,6 +576,15 @@
    "category": "mame",
    "topic_id": "m005",
    "text_head": "「お気持ちで」と言われたら、相場と同じ300〜500円を納めるのが無難かもです。",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2102788267339022588",
+   "posted_at": "2026-09-24T00:52:46.794123+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝の記録、どうしてますか？⛩ 僕は参拝した神社仏閣と御朱印の写真を、サッと記録",
    "self_replied": false,
    "measured": false
   }
