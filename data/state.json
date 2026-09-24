@@ -1,5 +1,5 @@
 {
- "post_count": 80,
+ "post_count": 81,
  "used_ids": [
   "m039",
   "s024",
@@ -44,19 +44,11 @@
   "m035",
   "m034",
   "k010",
-  "m005"
+  "m005",
+  "d003"
  ],
  "mame_vol": 28,
  "last_posts": [
-  {
-   "tweet_id": "2081167258974671263",
-   "posted_at": "2026-07-26T08:58:37.623034+09:00",
-   "category": "mame",
-   "topic_id": "m037",
-   "text_head": "御朱印帳の最初のページは伊勢神宮用に空けるという話、聞いたことある人多いと思いま",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2081735221079400640",
    "posted_at": "2026-07-27T22:35:29.720886+09:00",
@@ -585,6 +577,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝の記録、どうしてますか？⛩ 僕は参拝した神社仏閣と御朱印の写真を、サッと記録",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2103156219170959810",
+   "posted_at": "2026-09-25T01:14:53.554486+09:00",
+   "category": "dev",
+   "topic_id": "d003",
+   "text_head": "参拝カレンダーを眺めてると、自分のパターンが見えてくるんです。春は桜の神社ばっか",
    "self_replied": false,
    "measured": false
   }
