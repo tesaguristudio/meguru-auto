@@ -1,5 +1,5 @@
 {
- "post_count": 83,
+ "post_count": 84,
  "used_ids": [
   "m039",
   "s024",
@@ -47,19 +47,11 @@
   "m005",
   "d003",
   "m051",
-  "s001"
+  "s001",
+  "m032"
  ],
- "mame_vol": 29,
+ "mame_vol": 30,
  "last_posts": [
-  {
-   "tweet_id": "2082450369393697112",
-   "posted_at": "2026-07-29T21:57:14.295704+09:00",
-   "category": "season",
-   "topic_id": "cal-08-01",
-   "text_head": "旧暦8月1日は八朔。夏本番のこの時期、神社への挨拶参拝をする風習があるんですね。",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2082805102247866748",
    "posted_at": "2026-07-30T21:26:49.365540+09:00",
@@ -588,6 +580,15 @@
    "category": "spot",
    "topic_id": "s001",
    "text_head": "伏見稲荷大社の千本鳥居、実は数え切れないほど奉納されてるんです。全国3万社の稲荷",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2104014337816072258",
+   "posted_at": "2026-09-27T10:04:46.279583+09:00",
+   "category": "mame",
+   "topic_id": "m032",
+   "text_head": "雨の日の参拝、実は好きなんです。\n\n雨は禊（みそぎ）という考えもあるように、心身",
    "self_replied": false,
    "measured": false
   }
