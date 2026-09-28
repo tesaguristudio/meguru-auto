@@ -1,5 +1,5 @@
 {
- "post_count": 84,
+ "post_count": 85,
  "used_ids": [
   "m039",
   "s024",
@@ -52,15 +52,6 @@
  ],
  "mame_vol": 30,
  "last_posts": [
-  {
-   "tweet_id": "2082805102247866748",
-   "posted_at": "2026-07-30T21:26:49.365540+09:00",
-   "category": "season",
-   "topic_id": "cal-08-01",
-   "text_head": "八朔（はっさく）は旧暦8月1日の挨拶の日。昔から「夏本番の参拝日」とされてきたよ",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2083173829866840302",
    "posted_at": "2026-07-31T21:52:01.042938+09:00",
@@ -591,6 +582,15 @@
    "text_head": "雨の日の参拝、実は好きなんです。\n\n雨は禊（みそぎ）という考えもあるように、心身",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2104648057421717896",
+   "posted_at": "2026-09-29T04:02:55.869570+09:00",
+   "category": "season",
+   "topic_id": "cal-10-01",
+   "text_head": "10月は全国の神々が出雲に集う月。出雲では『神在月（かみありづき）』と呼ぶそうで",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
