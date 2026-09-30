@@ -1,5 +1,5 @@
 {
- "post_count": 86,
+ "post_count": 87,
  "used_ids": [
   "m039",
   "s024",
@@ -52,15 +52,6 @@
  ],
  "mame_vol": 30,
  "last_posts": [
-  {
-   "tweet_id": "2083341838929334347",
-   "posted_at": "2026-08-01T08:59:37.360281+09:00",
-   "category": "season",
-   "topic_id": "cal-08-01",
-   "text_head": "旧暦8月1日は八朔。夏本番、参拝に良い季節ですね。⛩\n\n夏の日差しの中での参拝は",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2083703036010959258",
    "posted_at": "2026-08-02T08:54:53.425913+09:00",
@@ -589,6 +580,15 @@
    "category": "season",
    "topic_id": "cal-10-01",
    "text_head": "10月は神無月。全国の神々が出雲大社に集う月とされていますね。出雲では逆に『神在",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2105347374985970065",
+   "posted_at": "2026-10-01T02:21:45.477952+09:00",
+   "category": "season",
+   "topic_id": "cal-10-01",
+   "text_head": "10月は全国の神社では『神無月』。一方、出雲大社がある島根県では『神在月』と呼ぶ",
    "self_replied": false,
    "measured": false
   }
