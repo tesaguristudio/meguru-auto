@@ -1,5 +1,5 @@
 {
- "post_count": 88,
+ "post_count": 89,
  "used_ids": [
   "m039",
   "s024",
@@ -49,19 +49,11 @@
   "m051",
   "s001",
   "m032",
-  "m054"
+  "m054",
+  "m047"
  ],
- "mame_vol": 31,
+ "mame_vol": 32,
  "last_posts": [
-  {
-   "tweet_id": "2084211587666096129",
-   "posted_at": "2026-08-03T18:35:42.385387+09:00",
-   "category": "mame",
-   "topic_id": "m043",
-   "text_head": "夏の御朱印が深い墨色になってるの気付きました？季節ごとに墨を変えてる神社が結構あ",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2084283680260837822",
    "posted_at": "2026-08-03T23:22:09.745344+09:00",
@@ -590,6 +582,15 @@
    "category": "mame",
    "topic_id": "m054",
    "text_head": "夜間参拝で御朱印は頂ける?ってご存知ですか?⛩\n\n夜間参拝は可能ですが、御朱印受",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2106069300603691036",
+   "posted_at": "2026-10-03T02:10:27.415651+09:00",
+   "category": "mame",
+   "topic_id": "m047",
+   "text_head": "御朱印帳のカバー、実はけっこう大事な存在ですよね。参拝を重ねると、鞄の中での擦れ",
    "self_replied": false,
    "measured": false
   }
