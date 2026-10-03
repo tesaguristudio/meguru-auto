@@ -1,5 +1,5 @@
 {
- "post_count": 89,
+ "post_count": 90,
  "used_ids": [
   "m039",
   "s024",
@@ -54,15 +54,6 @@
  ],
  "mame_vol": 32,
  "last_posts": [
-  {
-   "tweet_id": "2084283680260837822",
-   "posted_at": "2026-08-03T23:22:09.745344+09:00",
-   "category": "promo",
-   "topic_id": "promo",
-   "text_head": "参拝の記録、どうしてますか？私は御朱印帳に書いてもらうのはもちろん、写真もたくさ",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2084638831039643684",
    "posted_at": "2026-08-04T22:53:24.404323+09:00",
@@ -591,6 +582,15 @@
    "category": "mame",
    "topic_id": "m047",
    "text_head": "御朱印帳のカバー、実はけっこう大事な存在ですよね。参拝を重ねると、鞄の中での擦れ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2106198203347402834",
+   "posted_at": "2026-10-03T10:42:39.307316+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝の記録、どうしていますか？📱\n\n御朱印帳は素敵だけど、写真もスマホにバラバラ",
    "self_replied": false,
    "measured": false
   }
