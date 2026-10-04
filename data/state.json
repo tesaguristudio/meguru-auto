@@ -1,5 +1,5 @@
 {
- "post_count": 90,
+ "post_count": 91,
  "used_ids": [
   "m039",
   "s024",
@@ -50,19 +50,11 @@
   "s001",
   "m032",
   "m054",
-  "m047"
+  "m047",
+  "m055"
  ],
- "mame_vol": 32,
+ "mame_vol": 33,
  "last_posts": [
-  {
-   "tweet_id": "2084638831039643684",
-   "posted_at": "2026-08-04T22:53:24.404323+09:00",
-   "category": "season",
-   "topic_id": "k001",
-   "text_head": "夏詣って知ってますか？6月末の夏越の大祓から始まる参拝文化で、浅草神社が発祥だそ",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2085000319575191610",
    "posted_at": "2026-08-05T22:49:51.618161+09:00",
@@ -591,6 +583,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝の記録、どうしていますか？📱\n\n御朱印帳は素敵だけど、写真もスマホにバラバラ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2106570691113816134",
+   "posted_at": "2026-10-04T11:22:47.796363+09:00",
+   "category": "mame",
+   "topic_id": "m055",
+   "text_head": "団体で参拝するときの御朱印対応、神社仏閣によって異なるってご存知ですか？⛩\n\n大",
    "self_replied": false,
    "measured": false
   }
