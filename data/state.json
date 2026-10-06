@@ -1,5 +1,5 @@
 {
- "post_count": 91,
+ "post_count": 92,
  "used_ids": [
   "m039",
   "s024",
@@ -51,19 +51,11 @@
   "m032",
   "m054",
   "m047",
-  "m055"
+  "m055",
+  "m030"
  ],
- "mame_vol": 33,
+ "mame_vol": 34,
  "last_posts": [
-  {
-   "tweet_id": "2085000319575191610",
-   "posted_at": "2026-08-05T22:49:51.618161+09:00",
-   "category": "mame",
-   "topic_id": "m049",
-   "text_head": "御朱印をよく見ると『謹書』って書いてあることがあります。これは書き手が敬意を込め",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2085362010405958043",
    "posted_at": "2026-08-06T22:47:04.605485+09:00",
@@ -594,6 +586,15 @@
    "text_head": "団体で参拝するときの御朱印対応、神社仏閣によって異なるってご存知ですか？⛩\n\n大",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2107526689097912731",
+   "posted_at": "2026-10-07T02:41:35.791124+09:00",
+   "category": "mame",
+   "topic_id": "m030",
+   "text_head": "「一の宮」ってご存知ですか？⛩ 昔の各国で最も格式が高いとされた神社のこと。全国",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
