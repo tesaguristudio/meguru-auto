@@ -1,5 +1,5 @@
 {
- "post_count": 92,
+ "post_count": 93,
  "used_ids": [
   "m039",
   "s024",
@@ -52,19 +52,11 @@
   "m054",
   "m047",
   "m055",
-  "m030"
+  "m030",
+  "k014"
  ],
  "mame_vol": 34,
  "last_posts": [
-  {
-   "tweet_id": "2085362010405958043",
-   "posted_at": "2026-08-06T22:47:04.605485+09:00",
-   "category": "mame",
-   "topic_id": "m014",
-   "text_head": "狛犬の「阿吽」って、口を開けた方が阿形、閉じた方が吽形。物事の始まりと終わりを表",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2085708749092884822",
    "posted_at": "2026-08-07T21:44:53.308798+09:00",
@@ -593,6 +585,15 @@
    "category": "mame",
    "topic_id": "m030",
    "text_head": "「一の宮」ってご存知ですか？⛩ 昔の各国で最も格式が高いとされた神社のこと。全国",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2107897377524998464",
+   "posted_at": "2026-10-08T03:14:33.920793+09:00",
+   "category": "season",
+   "topic_id": "k014",
+   "text_head": "ゴールデンウィークは遠方の一之宮巡りのチャンス。普段行けない地域の格式高い神社で",
    "self_replied": false,
    "measured": false
   }
