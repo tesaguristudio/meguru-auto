@@ -1,5 +1,5 @@
 {
- "post_count": 93,
+ "post_count": 94,
  "used_ids": [
   "m039",
   "s024",
@@ -53,19 +53,11 @@
   "m047",
   "m055",
   "m030",
-  "k014"
+  "k014",
+  "m025"
  ],
- "mame_vol": 34,
+ "mame_vol": 35,
  "last_posts": [
-  {
-   "tweet_id": "2085708749092884822",
-   "posted_at": "2026-08-07T21:44:53.308798+09:00",
-   "category": "mame",
-   "topic_id": "m009",
-   "text_head": "限定御朱印って、寺社の公式SNSをフォローするのが一番早いんですよね⛩️月替わり",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2085871332776915289",
    "posted_at": "2026-08-08T08:30:56.367933+09:00",
@@ -594,6 +586,15 @@
    "category": "season",
    "topic_id": "k014",
    "text_head": "ゴールデンウィークは遠方の一之宮巡りのチャンス。普段行けない地域の格式高い神社で",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2108259972425351271",
+   "posted_at": "2026-10-09T03:15:24.118216+09:00",
+   "category": "mame",
+   "topic_id": "m025",
+   "text_head": "御朱印の受付時間、ご存知ですか？⛩\n\n多くの神社仏閣は9〜16時台のようです。意",
    "self_replied": false,
    "measured": false
   }
