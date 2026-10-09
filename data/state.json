@@ -1,5 +1,5 @@
 {
- "post_count": 94,
+ "post_count": 95,
  "used_ids": [
   "m039",
   "s024",
@@ -54,19 +54,11 @@
   "m055",
   "m030",
   "k014",
-  "m025"
+  "m025",
+  "m019"
  ],
- "mame_vol": 35,
+ "mame_vol": 36,
  "last_posts": [
-  {
-   "tweet_id": "2085871332776915289",
-   "posted_at": "2026-08-08T08:30:56.367933+09:00",
-   "category": "mame",
-   "topic_id": "m038",
-   "text_head": "朝の参拝、本当におすすめです。空気が違う。境内も静かで、自分のペースで御朱印帳と",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2086797771399639112",
    "posted_at": "2026-08-10T21:52:16.048331+09:00",
@@ -595,6 +587,15 @@
    "category": "mame",
    "topic_id": "m025",
    "text_head": "御朱印の受付時間、ご存知ですか？⛩\n\n多くの神社仏閣は9〜16時台のようです。意",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2108615600956391481",
+   "posted_at": "2026-10-10T02:48:32.674250+09:00",
+   "category": "mame",
+   "topic_id": "m019",
+   "text_head": "御朱印帳、どう保管していますか？湿気が天敵なので、風通しのいい場所に立てて保管す",
    "self_replied": false,
    "measured": false
   }
