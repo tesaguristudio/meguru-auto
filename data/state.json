@@ -1,5 +1,5 @@
 {
- "post_count": 95,
+ "post_count": 96,
  "used_ids": [
   "m039",
   "s024",
@@ -55,19 +55,11 @@
   "m030",
   "k014",
   "m025",
-  "m019"
+  "m019",
+  "s025"
  ],
  "mame_vol": 36,
  "last_posts": [
-  {
-   "tweet_id": "2086797771399639112",
-   "posted_at": "2026-08-10T21:52:16.048331+09:00",
-   "category": "season",
-   "topic_id": "cal-08-13",
-   "text_head": "帰省先の氏神様にお参り。お盆は祖先をお迎えする時期だからこそ、地元の神社で手を合",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2087158742127149494",
    "posted_at": "2026-08-11T21:46:37.669484+09:00",
@@ -596,6 +588,15 @@
    "category": "mame",
    "topic_id": "m019",
    "text_head": "御朱印帳、どう保管していますか？湿気が天敵なので、風通しのいい場所に立てて保管す",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2108740053639868710",
+   "posted_at": "2026-10-10T11:03:03.610928+09:00",
+   "category": "spot",
+   "topic_id": "s025",
+   "text_head": "宗像大社は道の神様を祀る社。沖ノ島を含む世界遺産で、古代から海上交易の守り神とし",
    "self_replied": false,
    "measured": false
   }
