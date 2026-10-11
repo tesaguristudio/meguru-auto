@@ -1,5 +1,5 @@
 {
- "post_count": 96,
+ "post_count": 97,
  "used_ids": [
   "m039",
   "s024",
@@ -56,19 +56,11 @@
   "k014",
   "m025",
   "m019",
-  "s025"
+  "s025",
+  "m024"
  ],
- "mame_vol": 36,
+ "mame_vol": 37,
  "last_posts": [
-  {
-   "tweet_id": "2087158742127149494",
-   "posted_at": "2026-08-11T21:46:37.669484+09:00",
-   "category": "season",
-   "topic_id": "cal-08-13",
-   "text_head": "帰省先の氏神様にお参りしました。お盆は祖先の霊が帰ってくるといわれる時期。地元の",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2087522474929852531",
    "posted_at": "2026-08-12T21:51:58.595575+09:00",
@@ -597,6 +589,15 @@
    "category": "spot",
    "topic_id": "s025",
    "text_head": "宗像大社は道の神様を祀る社。沖ノ島を含む世界遺産で、古代から海上交易の守り神とし",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2109094820375671186",
+   "posted_at": "2026-10-11T10:32:47.245531+09:00",
+   "category": "mame",
+   "topic_id": "m024",
+   "text_head": "浄土真宗のお寺で御朱印がもらえないのはなぜ？実は教義に関係があるんです。参拝の「",
    "self_replied": false,
    "measured": false
   }
