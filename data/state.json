@@ -1,5 +1,5 @@
 {
- "post_count": 97,
+ "post_count": 98,
  "used_ids": [
   "m039",
   "s024",
@@ -57,19 +57,11 @@
   "m025",
   "m019",
   "s025",
-  "m024"
+  "m024",
+  "m002"
  ],
- "mame_vol": 37,
+ "mame_vol": 38,
  "last_posts": [
-  {
-   "tweet_id": "2087522474929852531",
-   "posted_at": "2026-08-12T21:51:58.595575+09:00",
-   "category": "season",
-   "topic_id": "cal-08-13",
-   "text_head": "お盆は帰省先の氏神様に参拝する大切な時季ですね。先日、実家近くのお寺の盆行事に立",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2087885157671829636",
    "posted_at": "2026-08-13T21:53:09.790971+09:00",
@@ -600,6 +592,15 @@
    "text_head": "浄土真宗のお寺で御朱印がもらえないのはなぜ？実は教義に関係があるんです。参拝の「",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2109746095697846590",
+   "posted_at": "2026-10-13T05:40:43.582815+09:00",
+   "category": "mame",
+   "topic_id": "m002",
+   "text_head": "御朱印帳を神社とお寺で分けるべき？これ、よく悩まれるポイントですよね。実は厳密な",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
