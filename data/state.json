@@ -1,5 +1,5 @@
 {
- "post_count": 98,
+ "post_count": 99,
  "used_ids": [
   "m039",
   "s024",
@@ -62,15 +62,6 @@
  ],
  "mame_vol": 38,
  "last_posts": [
-  {
-   "tweet_id": "2087885157671829636",
-   "posted_at": "2026-08-13T21:53:09.790971+09:00",
-   "category": "mame",
-   "topic_id": "m015",
-   "text_head": "神社の称号って、実は格式を表してるんですね。\n\n神宮は皇室ゆかりで最高位。大社は",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2088246006068678868",
    "posted_at": "2026-08-14T21:47:01.991416+09:00",
@@ -599,6 +590,15 @@
    "category": "mame",
    "topic_id": "m002",
    "text_head": "御朱印帳を神社とお寺で分けるべき？これ、よく悩まれるポイントですよね。実は厳密な",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2110079042229854288",
+   "posted_at": "2026-10-14T03:43:43.072764+09:00",
+   "category": "season",
+   "topic_id": "cal-10-17",
+   "text_head": "神嘗祭（かんなめさい）ってご存知ですか？⛩\n\n伊勢神宮で毎年秋に執り行われる、天",
    "self_replied": false,
    "measured": false
   }
