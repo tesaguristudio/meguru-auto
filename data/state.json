@@ -1,5 +1,5 @@
 {
- "post_count": 99,
+ "post_count": 100,
  "used_ids": [
   "m039",
   "s024",
@@ -62,15 +62,6 @@
  ],
  "mame_vol": 38,
  "last_posts": [
-  {
-   "tweet_id": "2088246006068678868",
-   "posted_at": "2026-08-14T21:47:01.991416+09:00",
-   "category": "promo",
-   "topic_id": "promo",
-   "text_head": "参拝記録をサッと残しておくと、後から見返すのが楽しいんですよね。御朱印の写真と一",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2088404977748189350",
    "posted_at": "2026-08-15T08:18:43.428693+09:00",
@@ -599,6 +590,15 @@
    "category": "season",
    "topic_id": "cal-10-17",
    "text_head": "神嘗祭（かんなめさい）ってご存知ですか？⛩\n\n伊勢神宮で毎年秋に執り行われる、天",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2110404399298413001",
+   "posted_at": "2026-10-15T01:16:34.238916+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝記録、どうしてますか？📱\n\n御朱印帳は重いし、写真も散らばる…そんなとき個人",
    "self_replied": false,
    "measured": false
   }
