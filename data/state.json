@@ -1,5 +1,5 @@
 {
- "post_count": 100,
+ "post_count": 101,
  "used_ids": [
   "m039",
   "s024",
@@ -62,15 +62,6 @@
  ],
  "mame_vol": 38,
  "last_posts": [
-  {
-   "tweet_id": "2088404977748189350",
-   "posted_at": "2026-08-15T08:18:43.428693+09:00",
-   "category": "dev",
-   "topic_id": "d005",
-   "text_head": "神社の位置データ、意外と複雑なんですよね。同じ神社でも住所表記が複数あったり、山",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2088766998901633441",
    "posted_at": "2026-08-16T08:17:16.307805+09:00",
@@ -599,6 +590,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝記録、どうしてますか？📱\n\n御朱印帳は重いし、写真も散らばる…そんなとき個人",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2110763617209725394",
+   "posted_at": "2026-10-16T01:03:58.734215+09:00",
+   "category": "season",
+   "topic_id": "cal-10-17",
+   "text_head": "神嘗祭（かんなめさい）ってご存知ですか？伊勢神宮で秋に行われる最重要祭事のひとつ",
    "self_replied": false,
    "measured": false
   }
