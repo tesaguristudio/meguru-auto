@@ -1,5 +1,5 @@
 {
- "post_count": 102,
+ "post_count": 103,
  "used_ids": [
   "m039",
   "s024",
@@ -62,15 +62,6 @@
  ],
  "mame_vol": 38,
  "last_posts": [
-  {
-   "tweet_id": "2089328436128944515",
-   "posted_at": "2026-08-17T21:28:14.122955+09:00",
-   "category": "mame",
-   "topic_id": "m031",
-   "text_head": "「御朱印ガール」って2010年代に流行った言葉ですよね。最初は若い女性向けの呼び",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2089691341491970159",
    "posted_at": "2026-08-18T21:30:17.702737+09:00",
@@ -599,6 +590,15 @@
    "category": "season",
    "topic_id": "cal-10-17",
    "text_head": "神嘗祭ってご存知ですか？⛩ 伊勢神宮で最も重要な祭事のひとつで、その年の新穀を天",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2111261328002125983",
+   "posted_at": "2026-10-17T10:01:42.189336+09:00",
+   "category": "season",
+   "topic_id": "cal-10-17",
+   "text_head": "神嘗祭（かんなめさい）ってご存知ですか？伊勢神宮で秋に行われる最重要祭事で、新穀",
    "self_replied": false,
    "measured": false
   }
