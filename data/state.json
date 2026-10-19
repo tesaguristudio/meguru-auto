@@ -1,5 +1,5 @@
 {
- "post_count": 104,
+ "post_count": 105,
  "used_ids": [
   "m039",
   "s024",
@@ -59,19 +59,11 @@
   "s025",
   "m024",
   "m002",
-  "m022"
+  "m022",
+  "m053"
  ],
- "mame_vol": 39,
+ "mame_vol": 40,
  "last_posts": [
-  {
-   "tweet_id": "2090053848702349607",
-   "posted_at": "2026-08-19T21:30:46.284839+09:00",
-   "category": "mame",
-   "topic_id": "m012",
-   "text_head": "手水の正しい作法、意外と忘れちゃいますよね。左手→右手→口→左手→柄杓の柄の順で",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2090416672675078608",
    "posted_at": "2026-08-20T21:32:29.827260+09:00",
@@ -602,6 +594,15 @@
    "text_head": "参拝するとき、本社の近くに小さな社があるのに気づきませんか？⛩ それが摂社・末社",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2112243614440985084",
+   "posted_at": "2026-10-20T03:04:59.331386+09:00",
+   "category": "mame",
+   "topic_id": "m053",
+   "text_head": "御朱印の寺社名、揮毫者によって全然違いませんか？\n\n太い筆で力強く、細い線でしな",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
