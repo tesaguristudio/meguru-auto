@@ -1,5 +1,5 @@
 {
- "post_count": 105,
+ "post_count": 106,
  "used_ids": [
   "m039",
   "s024",
@@ -60,19 +60,11 @@
   "m024",
   "m002",
   "m022",
-  "m053"
+  "m053",
+  "m001"
  ],
- "mame_vol": 40,
+ "mame_vol": 41,
  "last_posts": [
-  {
-   "tweet_id": "2090416672675078608",
-   "posted_at": "2026-08-20T21:32:29.827260+09:00",
-   "category": "mame",
-   "topic_id": "m006",
-   "text_head": "御朱印帳の使い方、実は諸説あるんです。表紙から蛇腹状に順番に埋めるのが基本ですが",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2090778797473730739",
    "posted_at": "2026-08-21T21:31:27.807528+09:00",
@@ -601,6 +593,15 @@
    "category": "mame",
    "topic_id": "m053",
    "text_head": "御朱印の寺社名、揮毫者によって全然違いませんか？\n\n太い筆で力強く、細い線でしな",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2112576492928417862",
+   "posted_at": "2026-10-21T01:07:43.214978+09:00",
+   "category": "mame",
+   "topic_id": "m001",
+   "text_head": "実は御朱印って、お経をお寺に納めた証『納経印』が起源なんです。昔は修行僧が経典を",
    "self_replied": false,
    "measured": false
   }
