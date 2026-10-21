@@ -1,5 +1,5 @@
 {
- "post_count": 106,
+ "post_count": 107,
  "used_ids": [
   "m039",
   "s024",
@@ -61,19 +61,11 @@
   "m002",
   "m022",
   "m053",
-  "m001"
+  "m001",
+  "m016"
  ],
- "mame_vol": 41,
+ "mame_vol": 42,
  "last_posts": [
-  {
-   "tweet_id": "2090778797473730739",
-   "posted_at": "2026-08-21T21:31:27.807528+09:00",
-   "category": "mame",
-   "topic_id": "m008",
-   "text_head": "御朱印はスタンプラリーではなく、参拝の証。まずお参りすることが基本です。⛩\n\n手",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2090942149021872539",
    "posted_at": "2026-08-22T08:20:32.487509+09:00",
@@ -602,6 +594,15 @@
    "category": "mame",
    "topic_id": "m001",
    "text_head": "実は御朱印って、お経をお寺に納めた証『納経印』が起源なんです。昔は修行僧が経典を",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2112942872630628403",
+   "posted_at": "2026-10-22T01:23:34.513417+09:00",
+   "category": "mame",
+   "topic_id": "m016",
+   "text_head": "御神木に巻かれた注連縄、実は神が宿る依代（よりしろ）であることを示す印なんです⛩",
    "self_replied": false,
    "measured": false
   }
