@@ -1,5 +1,5 @@
 {
- "post_count": 108,
+ "post_count": 109,
  "used_ids": [
   "m039",
   "s024",
@@ -63,19 +63,11 @@
   "m053",
   "m001",
   "m016",
-  "k006"
+  "k006",
+  "m013"
  ],
- "mame_vol": 42,
+ "mame_vol": 43,
  "last_posts": [
-  {
-   "tweet_id": "2091303846563987686",
-   "posted_at": "2026-08-23T08:17:49.357800+09:00",
-   "category": "mame",
-   "topic_id": "m046",
-   "text_head": "神社とお寺で御朱印帳の向きを変えるの、ご存知ですか？⛩\n\n神社は右開き（和本式）",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2091866356098441465",
    "posted_at": "2026-08-24T21:33:00.592258+09:00",
@@ -604,6 +596,15 @@
    "category": "season",
    "topic_id": "k006",
    "text_head": "秋の紅葉名所は御朱印の宝庫。限定御朱印が出るお寺社が多いんです。紅葉と一緒に御朱",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2113664968440627447",
+   "posted_at": "2026-10-24T01:12:56.120230+09:00",
+   "category": "mame",
+   "topic_id": "m013",
+   "text_head": "鳥居をくぐるとき、実は一礼してからが正解ってご存知？⛩\n\nそして参道を歩くときは",
    "self_replied": false,
    "measured": false
   }
