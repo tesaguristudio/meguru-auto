@@ -589,7 +589,7 @@
    "topic_id": "m013",
    "text_head": "鳥居をくぐるとき、実は一礼してからが正解ってご存知？⛩\n\nそして参道を歩くときは",
    "self_replied": true,
-   "measured": false
+   "measured": true
   },
   {
    "tweet_id": "2113803011910971409",
@@ -598,7 +598,7 @@
    "topic_id": "promo",
    "text_head": "参拝記録、あとで見返そうと思ったらスマホに残ってない…ってこと、ありませんか？⛩",
    "self_replied": false,
-   "measured": false
+   "measured": true
   },
   {
    "tweet_id": "2114156986531254524",
