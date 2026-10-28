@@ -1,5 +1,5 @@
 {
- "post_count": 113,
+ "post_count": 114,
  "used_ids": [
   "m039",
   "s024",
@@ -67,19 +67,11 @@
   "m013",
   "k008",
   "d001",
-  "k007"
+  "k007",
+  "m007"
  ],
- "mame_vol": 43,
+ "mame_vol": 44,
  "last_posts": [
-  {
-   "tweet_id": "2093452982767509952",
-   "posted_at": "2026-08-29T06:37:43.543345+09:00",
-   "category": "mame",
-   "topic_id": "m045",
-   "text_head": "「納経」と「参拝」って別物なんですよね。参拝は誰でもできますが、納経は本来、経典",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2093549369543057794",
    "posted_at": "2026-08-29T13:00:42.598123+09:00",
@@ -608,6 +600,15 @@
    "category": "season",
    "topic_id": "k007",
    "text_head": "11月15日は七五三。子どもの成長を感謝する行事ですが、実は神社参拝が今のような",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2115499922103431663",
+   "posted_at": "2026-10-29T02:44:22.574287+09:00",
+   "category": "mame",
+   "topic_id": "m007",
+   "text_head": "書き置き御朱印をいただいたとき、どうやって貼ってますか？実は糊選びで仕上がりが結",
    "self_replied": false,
    "measured": false
   }
