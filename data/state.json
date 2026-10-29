@@ -1,5 +1,5 @@
 {
- "post_count": 114,
+ "post_count": 115,
  "used_ids": [
   "m039",
   "s024",
@@ -68,19 +68,11 @@
   "k008",
   "d001",
   "k007",
-  "m007"
+  "m007",
+  "s023"
  ],
  "mame_vol": 44,
  "last_posts": [
-  {
-   "tweet_id": "2093549369543057794",
-   "posted_at": "2026-08-29T13:00:42.598123+09:00",
-   "category": "season",
-   "topic_id": "cal-09-01",
-   "text_head": "防災の日が近いですね。参拝する時は、災難除けや厄除けの神社を訪れる人も多いのでは",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2093866574541193466",
    "posted_at": "2026-08-30T10:01:10.166260+09:00",
@@ -609,6 +601,15 @@
    "category": "mame",
    "topic_id": "m007",
    "text_head": "書き置き御朱印をいただいたとき、どうやって貼ってますか？実は糊選びで仕上がりが結",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2115864126249369709",
+   "posted_at": "2026-10-30T02:51:34.932629+09:00",
+   "category": "spot",
+   "topic_id": "s023",
+   "text_head": "鹽竈神社⛩塩釜の海を見下ろす陸奥国一之宮。東北を鎮護する格式高い社です。\n\n参拝",
    "self_replied": false,
    "measured": false
   }
