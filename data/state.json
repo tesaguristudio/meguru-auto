@@ -1,5 +1,5 @@
 {
- "post_count": 115,
+ "post_count": 116,
  "used_ids": [
   "m039",
   "s024",
@@ -73,15 +73,6 @@
  ],
  "mame_vol": 44,
  "last_posts": [
-  {
-   "tweet_id": "2093866574541193466",
-   "posted_at": "2026-08-30T10:01:10.166260+09:00",
-   "category": "spot",
-   "topic_id": "s019",
-   "text_head": "高野山の奥之院を歩くと、時間が違う世界に入ったような感覚になります。樹齢数百年の",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2094493745538330685",
    "posted_at": "2026-09-01T03:33:18.956938+09:00",
@@ -610,6 +601,15 @@
    "category": "spot",
    "topic_id": "s023",
    "text_head": "鹽竈神社⛩塩釜の海を見下ろす陸奥国一之宮。東北を鎮護する格式高い社です。\n\n参拝",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2116221958614376491",
+   "posted_at": "2026-10-31T02:33:28.413965+09:00",
+   "category": "season",
+   "topic_id": "cal-11-03",
+   "text_head": "秋の例大祭シーズン、各地の神社がお祭りムード一色になってきました⛩\n\n例大祭は神",
    "self_replied": false,
    "measured": false
   }
