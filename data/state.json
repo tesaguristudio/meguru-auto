@@ -1,5 +1,5 @@
 {
- "post_count": 117,
+ "post_count": 118,
  "used_ids": [
   "m039",
   "s024",
@@ -73,15 +73,6 @@
  ],
  "mame_vol": 44,
  "last_posts": [
-  {
-   "tweet_id": "2094815529940718027",
-   "posted_at": "2026-09-02T00:51:59.765044+09:00",
-   "category": "mame",
-   "topic_id": "m044",
-   "text_head": "御朱印の押印順序、寺社によって異なることご存知ですか？⛩\n\n朱印を先に押してから",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2095176621527552176",
    "posted_at": "2026-09-03T00:46:49.714025+09:00",
@@ -610,6 +601,15 @@
    "category": "season",
    "topic_id": "cal-11-03",
    "text_head": "秋の例大祭シーズン到来です。文化の日前後、各地の神社でお祭りが集中する時期。参拝",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2116709149593456900",
+   "posted_at": "2026-11-01T10:49:24.018279+09:00",
+   "category": "season",
+   "topic_id": "cal-11-03",
+   "text_head": "11月は各地で例大祭が集中する時期ですね。秋の祭礼シーズン🍁\n\n例大祭は神社の最",
    "self_replied": false,
    "measured": false
   }
