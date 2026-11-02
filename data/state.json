@@ -1,5 +1,5 @@
 {
- "post_count": 118,
+ "post_count": 119,
  "used_ids": [
   "m039",
   "s024",
@@ -73,15 +73,6 @@
  ],
  "mame_vol": 44,
  "last_posts": [
-  {
-   "tweet_id": "2095176621527552176",
-   "posted_at": "2026-09-03T00:46:49.714025+09:00",
-   "category": "season",
-   "topic_id": "k003",
-   "text_head": "夏は風鈴御朱印の季節⛩いま川越や各地で風鈴祭りが盛り上がってて、夏限定の御朱印も",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2095535838981730521",
    "posted_at": "2026-09-04T00:34:13.404479+09:00",
@@ -612,6 +603,15 @@
    "text_head": "11月は各地で例大祭が集中する時期ですね。秋の祭礼シーズン🍁\n\n例大祭は神社の最",
    "self_replied": true,
    "measured": true
+  },
+  {
+   "tweet_id": "2117364423434117365",
+   "posted_at": "2026-11-03T06:13:13.470988+09:00",
+   "category": "season",
+   "topic_id": "cal-11-03",
+   "text_head": "11月は例大祭シーズン🍁 全国の神社で秋祭が集中する時期ですね。参拝計画を立てる",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
