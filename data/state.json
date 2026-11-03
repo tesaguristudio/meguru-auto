@@ -1,5 +1,5 @@
 {
- "post_count": 119,
+ "post_count": 120,
  "used_ids": [
   "m039",
   "s024",
@@ -73,15 +73,6 @@
  ],
  "mame_vol": 44,
  "last_posts": [
-  {
-   "tweet_id": "2095535838981730521",
-   "posted_at": "2026-09-04T00:34:13.404479+09:00",
-   "category": "promo",
-   "topic_id": "promo",
-   "text_head": "参拝記録って、後で見返すと思い出が蘇るんですよね。御朱印の日付、訪れた季節、その",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2095897929038831832",
    "posted_at": "2026-09-05T00:33:03.550000+09:00",
@@ -610,6 +601,15 @@
    "category": "season",
    "topic_id": "cal-11-03",
    "text_head": "11月は例大祭シーズン🍁 全国の神社で秋祭が集中する時期ですね。参拝計画を立てる",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2117691864048410963",
+   "posted_at": "2026-11-04T03:54:21.619452+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝記録って、あとで見返すと思い出が蘇りませんか？⛩\n\n僕も御朱印帳をめくるたび",
    "self_replied": false,
    "measured": false
   }
