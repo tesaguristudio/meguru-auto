@@ -1,5 +1,5 @@
 {
- "post_count": 120,
+ "post_count": 121,
  "used_ids": [
   "m039",
   "s024",
@@ -69,19 +69,11 @@
   "d001",
   "k007",
   "m007",
-  "s023"
+  "s023",
+  "k015"
  ],
  "mame_vol": 44,
  "last_posts": [
-  {
-   "tweet_id": "2095897929038831832",
-   "posted_at": "2026-09-05T00:33:03.550000+09:00",
-   "category": "mame",
-   "topic_id": "m020",
-   "text_head": "御朱印に『奉拝』と書かれているの、見かけたことありませんか？これは『つつしんで拝",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2096034509741244486",
    "posted_at": "2026-09-05T09:35:47.302724+09:00",
@@ -610,6 +602,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝記録って、あとで見返すと思い出が蘇りませんか？⛩\n\n僕も御朱印帳をめくるたび",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2118058564409585858",
+   "posted_at": "2026-11-05T04:11:29.436751+09:00",
+   "category": "season",
+   "topic_id": "k015",
+   "text_head": "梅雨の紫陽花寺、知ってますか？⛩\n\n雨の日の参拝って敬遠しがちですが、実はこの季",
    "self_replied": false,
    "measured": false
   }
