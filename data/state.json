@@ -1,5 +1,5 @@
 {
- "post_count": 121,
+ "post_count": 122,
  "used_ids": [
   "m039",
   "s024",
@@ -70,19 +70,11 @@
   "k007",
   "m007",
   "s023",
-  "k015"
+  "k015",
+  "m018"
  ],
- "mame_vol": 44,
+ "mame_vol": 45,
  "last_posts": [
-  {
-   "tweet_id": "2096034509741244486",
-   "posted_at": "2026-09-05T09:35:47.302724+09:00",
-   "category": "mame",
-   "topic_id": "m048",
-   "text_head": "七福神巡り、御朱印好きにとって正月の楽しみですよね。7つの寺社をスタンプラリー式",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2096396226488889591",
    "posted_at": "2026-09-06T09:33:07.081844+09:00",
@@ -611,6 +603,15 @@
    "category": "season",
    "topic_id": "k015",
    "text_head": "梅雨の紫陽花寺、知ってますか？⛩\n\n雨の日の参拝って敬遠しがちですが、実はこの季",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2118422555530809548",
+   "posted_at": "2026-11-06T04:17:52.861842+09:00",
+   "category": "mame",
+   "topic_id": "m018",
+   "text_head": "御朱印と御城印、違いってご存知ですか？⛩\n\n御朱印は参拝の証。神社仏閣での「参拝",
    "self_replied": false,
    "measured": false
   }
