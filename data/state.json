@@ -1,5 +1,5 @@
 {
- "post_count": 122,
+ "post_count": 123,
  "used_ids": [
   "m039",
   "s024",
@@ -71,19 +71,11 @@
   "m007",
   "s023",
   "k015",
-  "m018"
+  "m018",
+  "m041"
  ],
- "mame_vol": 45,
+ "mame_vol": 46,
  "last_posts": [
-  {
-   "tweet_id": "2096396226488889591",
-   "posted_at": "2026-09-06T09:33:07.081844+09:00",
-   "category": "mame",
-   "topic_id": "m027",
-   "text_head": "御朱印帳を忘れてしまった…そんな時も大丈夫です。多くの寺社では書き置きを用意して",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2097006577672724647",
    "posted_at": "2026-09-08T01:58:26.035706+09:00",
@@ -612,6 +604,15 @@
    "category": "mame",
    "topic_id": "m018",
    "text_head": "御朱印と御城印、違いってご存知ですか？⛩\n\n御朱印は参拝の証。神社仏閣での「参拝",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2118776490804339104",
+   "posted_at": "2026-11-07T03:44:17.772124+09:00",
+   "category": "mame",
+   "topic_id": "m041",
+   "text_head": "古い御朱印帳、どうしてますか？⛩\n\n捨てるのは気が引ける…そんなときは、参拝した",
    "self_replied": false,
    "measured": false
   }
