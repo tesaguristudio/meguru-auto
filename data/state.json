@@ -1,5 +1,5 @@
 {
- "post_count": 123,
+ "post_count": 124,
  "used_ids": [
   "m039",
   "s024",
@@ -72,19 +72,11 @@
   "s023",
   "k015",
   "m018",
-  "m041"
+  "m041",
+  "m021"
  ],
- "mame_vol": 46,
+ "mame_vol": 47,
  "last_posts": [
-  {
-   "tweet_id": "2097006577672724647",
-   "posted_at": "2026-09-08T01:58:26.035706+09:00",
-   "category": "mame",
-   "topic_id": "m004",
-   "text_head": "御朱印の初穂料、いくら持ってったらいい？ご存知ですか？⛩\n\n一般的には300〜5",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2097350747096854836",
    "posted_at": "2026-09-09T00:46:03.081437+09:00",
@@ -613,6 +605,15 @@
    "category": "mame",
    "topic_id": "m041",
    "text_head": "古い御朱印帳、どうしてますか？⛩\n\n捨てるのは気が引ける…そんなときは、参拝した",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2118894150242185685",
+   "posted_at": "2026-11-07T11:31:50.320365+09:00",
+   "category": "mame",
+   "topic_id": "m021",
+   "text_head": "ご存知ですか？⛩ 今の御朱印の文化、実は明治の神仏分離までは存在しなかったんです",
    "self_replied": false,
    "measured": false
   }
