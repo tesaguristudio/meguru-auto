@@ -1,5 +1,5 @@
 {
- "post_count": 124,
+ "post_count": 125,
  "used_ids": [
   "m039",
   "s024",
@@ -77,15 +77,6 @@
  ],
  "mame_vol": 47,
  "last_posts": [
-  {
-   "tweet_id": "2097350747096854836",
-   "posted_at": "2026-09-09T00:46:03.081437+09:00",
-   "category": "mame",
-   "topic_id": "m050",
-   "text_head": "神社の向きって、実は古代から決まってるんです。南向きか東向きが基本とされていて、",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2097724496870285601",
    "posted_at": "2026-09-10T01:31:11.735450+09:00",
@@ -614,6 +605,15 @@
    "category": "mame",
    "topic_id": "m021",
    "text_head": "ご存知ですか？⛩ 今の御朱印の文化、実は明治の神仏分離までは存在しなかったんです",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2119248965392593090",
+   "posted_at": "2026-11-08T11:01:43.156528+09:00",
+   "category": "season",
+   "topic_id": "cal-11-15",
+   "text_head": "七五三シーズン、境内が華やいでますね。子どもたちの成長を感謝する参拝、見ていてあ",
    "self_replied": false,
    "measured": false
   }
