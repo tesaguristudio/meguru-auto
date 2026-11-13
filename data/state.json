@@ -1,5 +1,5 @@
 {
- "post_count": 129,
+ "post_count": 130,
  "used_ids": [
   "m039",
   "s024",
@@ -77,15 +77,6 @@
  ],
  "mame_vol": 47,
  "last_posts": [
-  {
-   "tweet_id": "2098933623215030545",
-   "posted_at": "2026-09-13T09:35:48.143303+09:00",
-   "category": "promo",
-   "topic_id": "promo",
-   "text_head": "参拝の記録、どうしてますか？御朱印帳は重いし、写真もスマホに埋もれてしまう…そん",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2099548953041670611",
    "posted_at": "2026-09-15T02:20:54.347581+09:00",
@@ -614,6 +605,15 @@
    "category": "season",
    "topic_id": "cal-11-15",
    "text_head": "七五三の季節。境内が家族連れで華やぐこの時期、子どもたちの成長を感謝できるのは素",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2121317402235589081",
+   "posted_at": "2026-11-14T04:00:56.833979+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝記録、どうしてますか？僕は推し神社の御朱印を撮り貯めることが好きで、スマホで",
    "self_replied": false,
    "measured": false
   }
