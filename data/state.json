@@ -1,5 +1,5 @@
 {
- "post_count": 130,
+ "post_count": 131,
  "used_ids": [
   "m039",
   "s024",
@@ -77,15 +77,6 @@
  ],
  "mame_vol": 47,
  "last_posts": [
-  {
-   "tweet_id": "2099548953041670611",
-   "posted_at": "2026-09-15T02:20:54.347581+09:00",
-   "category": "season",
-   "topic_id": "cal-09-15",
-   "text_head": "中秋の名月の頃、観月祭を行う神社が増えますよね。⛩\n\n月見といえば家で団子…とい",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2099890946645090710",
    "posted_at": "2026-09-16T00:59:53.458483+09:00",
@@ -614,6 +605,15 @@
    "category": "promo",
    "topic_id": "promo",
    "text_head": "参拝記録、どうしてますか？僕は推し神社の御朱印を撮り貯めることが好きで、スマホで",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2121436499799318744",
+   "posted_at": "2026-11-14T11:54:11.961966+09:00",
+   "category": "season",
+   "topic_id": "cal-11-15",
+   "text_head": "七五三の季節ですね。境内が晴れ着で華やぐ風景、本当に素敵です⛩\n\n子どもの成長を",
    "self_replied": false,
    "measured": false
   }
