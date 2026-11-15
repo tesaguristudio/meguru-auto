@@ -1,5 +1,5 @@
 {
- "post_count": 131,
+ "post_count": 132,
  "used_ids": [
   "m039",
   "s024",
@@ -77,15 +77,6 @@
  ],
  "mame_vol": 47,
  "last_posts": [
-  {
-   "tweet_id": "2099890946645090710",
-   "posted_at": "2026-09-16T00:59:53.458483+09:00",
-   "category": "mame",
-   "topic_id": "m028",
-   "text_head": "神社で祀られている神様って、実は由緒書きで簡単に調べられるんです⛩\n\n参拝した時",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2100251606675497077",
    "posted_at": "2026-09-17T00:53:00.086333+09:00",
@@ -614,6 +605,15 @@
    "category": "season",
    "topic_id": "cal-11-15",
    "text_head": "七五三の季節ですね。境内が晴れ着で華やぐ風景、本当に素敵です⛩\n\n子どもの成長を",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2121790761083847077",
+   "posted_at": "2026-11-15T11:21:54.550877+09:00",
+   "category": "season",
+   "topic_id": "cal-11-15",
+   "text_head": "七五三の季節ですね。参拝する子どもたちの着物姿で境内が華やぐのが素敵です。\n\n千",
    "self_replied": false,
    "measured": false
   }
