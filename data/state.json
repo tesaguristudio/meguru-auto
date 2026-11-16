@@ -1,5 +1,5 @@
 {
- "post_count": 132,
+ "post_count": 133,
  "used_ids": [
   "m039",
   "s024",
@@ -73,19 +73,11 @@
   "k015",
   "m018",
   "m041",
-  "m021"
+  "m021",
+  "s026"
  ],
  "mame_vol": 47,
  "last_posts": [
-  {
-   "tweet_id": "2100251606675497077",
-   "posted_at": "2026-09-17T00:53:00.086333+09:00",
-   "category": "season",
-   "topic_id": "k009",
-   "text_head": "初詣っていつまでに行くべきかご存知ですか？⛩\n\n松の内（関東は1/7、関西は1/",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2100615425658675658",
    "posted_at": "2026-09-18T00:58:42.269422+09:00",
@@ -616,6 +608,15 @@
    "text_head": "七五三の季節ですね。参拝する子どもたちの着物姿で境内が華やぐのが素敵です。\n\n千",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2122441934207693169",
+   "posted_at": "2026-11-17T06:29:26.500099+09:00",
+   "category": "spot",
+   "topic_id": "s026",
+   "text_head": "伏見稲荷大社は全国の稲荷社の総本宮。商売繁盛の神様として篤い信仰を集めてきました",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
