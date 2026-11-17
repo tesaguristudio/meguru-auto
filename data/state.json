@@ -1,5 +1,5 @@
 {
- "post_count": 133,
+ "post_count": 134,
  "used_ids": [
   "m039",
   "s024",
@@ -74,19 +74,11 @@
   "m018",
   "m041",
   "m021",
-  "s026"
+  "s026",
+  "m023"
  ],
- "mame_vol": 47,
+ "mame_vol": 48,
  "last_posts": [
-  {
-   "tweet_id": "2100615425658675658",
-   "posted_at": "2026-09-18T00:58:42.269422+09:00",
-   "category": "mame",
-   "topic_id": "m035",
-   "text_head": "切り絵御朱印、ご存知ですか？⛩\n\n近年、繊細な切り絵で表現された御朱印が人気を集",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2100971575893737639",
    "posted_at": "2026-09-19T00:33:55.254212+09:00",
@@ -615,6 +607,15 @@
    "category": "spot",
    "topic_id": "s026",
    "text_head": "伏見稲荷大社は全国の稲荷社の総本宮。商売繁盛の神様として篤い信仰を集めてきました",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2122786383592845786",
+   "posted_at": "2026-11-18T05:18:10.928758+09:00",
+   "category": "mame",
+   "topic_id": "m023",
+   "text_head": "御朱印をもらえない神社仏閣も案外あります。無人社はもちろん、方針として授与してい",
    "self_replied": false,
    "measured": false
   }
