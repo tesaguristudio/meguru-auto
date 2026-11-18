@@ -1,5 +1,5 @@
 {
- "post_count": 134,
+ "post_count": 135,
  "used_ids": [
   "m039",
   "s024",
@@ -75,19 +75,11 @@
   "m041",
   "m021",
   "s026",
-  "m023"
+  "m023",
+  "s008"
  ],
  "mame_vol": 48,
  "last_posts": [
-  {
-   "tweet_id": "2100971575893737639",
-   "posted_at": "2026-09-19T00:33:55.254212+09:00",
-   "category": "mame",
-   "topic_id": "m034",
-   "text_head": "御朱印の『揮毫（きごう）』ってご存知ですか？⛩\n\n毛筆で直筆される御朱印は、書き",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2101113194034999577",
    "posted_at": "2026-09-19T09:56:38.645553+09:00",
@@ -616,6 +608,15 @@
    "category": "mame",
    "topic_id": "m023",
    "text_head": "御朱印をもらえない神社仏閣も案外あります。無人社はもちろん、方針として授与してい",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2123141269190738034",
+   "posted_at": "2026-11-19T04:48:20.663986+09:00",
+   "category": "spot",
+   "topic_id": "s008",
+   "text_head": "太宰府天満宮⛩学問の神・菅原道真公をお祀りする福岡の名社。冬から春にかけて見事な",
    "self_replied": false,
    "measured": false
   }
