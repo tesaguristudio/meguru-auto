@@ -1,5 +1,5 @@
 {
- "post_count": 135,
+ "post_count": 136,
  "used_ids": [
   "m039",
   "s024",
@@ -80,15 +80,6 @@
  ],
  "mame_vol": 48,
  "last_posts": [
-  {
-   "tweet_id": "2101113194034999577",
-   "posted_at": "2026-09-19T09:56:38.645553+09:00",
-   "category": "season",
-   "topic_id": "cal-09-22",
-   "text_head": "秋分を過ぎると、お寺参りがいっそう心地よくなりますね。お彼岸は故人を想いながら参",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2101470714037715337",
    "posted_at": "2026-09-20T09:37:17.941187+09:00",
@@ -617,6 +608,15 @@
    "category": "spot",
    "topic_id": "s008",
    "text_head": "太宰府天満宮⛩学問の神・菅原道真公をお祀りする福岡の名社。冬から春にかけて見事な",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2123503853903778129",
+   "posted_at": "2026-11-20T04:49:07.642450+09:00",
+   "category": "season",
+   "topic_id": "cal-11-23",
+   "text_head": "新嘗祭、ご存知ですか？⛩\n\n11月23日、全国の神社で行われる秋の重要祭事。その",
    "self_replied": false,
    "measured": false
   }
