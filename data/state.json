@@ -1,5 +1,5 @@
 {
- "post_count": 137,
+ "post_count": 138,
  "used_ids": [
   "m039",
   "s024",
@@ -80,15 +80,6 @@
  ],
  "mame_vol": 48,
  "last_posts": [
-  {
-   "tweet_id": "2102089064686231562",
-   "posted_at": "2026-09-22T02:34:24.086091+09:00",
-   "category": "season",
-   "topic_id": "cal-09-22",
-   "text_head": "秋分を迎えると、お寺参りの季節って感じます。お彼岸は先祖を思いながら参拝する時間",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2102428305718726769",
    "posted_at": "2026-09-23T01:02:26.891285+09:00",
@@ -617,6 +608,15 @@
    "category": "season",
    "topic_id": "cal-11-23",
    "text_head": "新嘗祭、ご存知ですか？⛩\n\n秋の収穫を感謝する、とても大切な祭事です。宮中でも全",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2123985825201352941",
+   "posted_at": "2026-11-21T12:44:18.450764+09:00",
+   "category": "season",
+   "topic_id": "cal-11-23",
+   "text_head": "11月23日は新嘗祭。天皇陛下が新穀を天地の神々に供え、感謝を捧げる年間で最も重",
    "self_replied": false,
    "measured": false
   }
