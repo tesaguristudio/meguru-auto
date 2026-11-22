@@ -1,5 +1,5 @@
 {
- "post_count": 138,
+ "post_count": 139,
  "used_ids": [
   "m039",
   "s024",
@@ -80,15 +80,6 @@
  ],
  "mame_vol": 48,
  "last_posts": [
-  {
-   "tweet_id": "2102428305718726769",
-   "posted_at": "2026-09-23T01:02:26.891285+09:00",
-   "category": "mame",
-   "topic_id": "m005",
-   "text_head": "「お気持ちで」と言われたら、相場と同じ300〜500円を納めるのが無難かもです。",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2102788267339022588",
    "posted_at": "2026-09-24T00:52:46.794123+09:00",
@@ -618,6 +609,15 @@
    "topic_id": "cal-11-23",
    "text_head": "11月23日は新嘗祭。天皇陛下が新穀を天地の神々に供え、感謝を捧げる年間で最も重",
    "self_replied": true,
+   "measured": false
+  },
+  {
+   "tweet_id": "2124334064601559319",
+   "posted_at": "2026-11-22T11:48:05.327761+09:00",
+   "category": "season",
+   "topic_id": "cal-11-23",
+   "text_head": "新嘗祭、ご存知ですか？⛩\n\n11月23日、天皇が新穀を神様に捧げ、収穫への感謝を",
+   "self_replied": false,
    "measured": false
   }
  ]
