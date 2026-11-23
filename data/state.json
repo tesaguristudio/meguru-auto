@@ -1,5 +1,5 @@
 {
- "post_count": 139,
+ "post_count": 140,
  "used_ids": [
   "m039",
   "s024",
@@ -80,15 +80,6 @@
  ],
  "mame_vol": 48,
  "last_posts": [
-  {
-   "tweet_id": "2102788267339022588",
-   "posted_at": "2026-09-24T00:52:46.794123+09:00",
-   "category": "promo",
-   "topic_id": "promo",
-   "text_head": "参拝の記録、どうしてますか？⛩ 僕は参拝した神社仏閣と御朱印の写真を、サッと記録",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2103156219170959810",
    "posted_at": "2026-09-25T01:14:53.554486+09:00",
@@ -619,6 +610,15 @@
    "text_head": "新嘗祭、ご存知ですか？⛩\n\n11月23日、天皇が新穀を神様に捧げ、収穫への感謝を",
    "self_replied": false,
    "measured": true
+  },
+  {
+   "tweet_id": "2125004132536988080",
+   "posted_at": "2026-11-24T08:10:41.688119+09:00",
+   "category": "promo",
+   "topic_id": "promo",
+   "text_head": "参拝のたびに「あ、ここ来たな」って思い出すことってありませんか？meguruは、",
+   "self_replied": false,
+   "measured": false
   }
  ]
 }
