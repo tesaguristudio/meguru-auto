@@ -1,5 +1,5 @@
 {
- "post_count": 141,
+ "post_count": 142,
  "used_ids": [
   "m039",
   "s024",
@@ -76,19 +76,11 @@
   "m021",
   "s026",
   "m023",
-  "s008"
+  "s008",
+  "m042"
  ],
- "mame_vol": 48,
+ "mame_vol": 49,
  "last_posts": [
-  {
-   "tweet_id": "2103518729346719942",
-   "posted_at": "2026-09-26T01:15:24.013335+09:00",
-   "category": "mame",
-   "topic_id": "m051",
-   "text_head": "お参りのとき、正座すべき？立ったまま？実は寺社によって作法が異なるんです。正座を",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2103653385480134696",
    "posted_at": "2026-09-26T10:10:27.192487+09:00",
@@ -617,6 +609,15 @@
    "category": "season",
    "topic_id": "cal-11-25",
    "text_head": "紅葉限定御朱印、今がピークですね。秋の参拝を記録するなら、朱色と金色の装飾が映え",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2125694705904033956",
+   "posted_at": "2026-11-26T05:54:49.099159+09:00",
+   "category": "mame",
+   "topic_id": "m042",
+   "text_head": "御朱印に日付が入るのは、実は「いつ参拝したか」を証明するためなんです。同じ神社で",
    "self_replied": false,
    "measured": false
   }
