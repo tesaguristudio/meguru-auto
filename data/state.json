@@ -1,5 +1,5 @@
 {
- "post_count": 142,
+ "post_count": 143,
  "used_ids": [
   "m039",
   "s024",
@@ -77,19 +77,11 @@
   "s026",
   "m023",
   "s008",
-  "m042"
+  "m042",
+  "q002"
  ],
  "mame_vol": 49,
  "last_posts": [
-  {
-   "tweet_id": "2103653385480134696",
-   "posted_at": "2026-09-26T10:10:27.192487+09:00",
-   "category": "spot",
-   "topic_id": "s001",
-   "text_head": "伏見稲荷大社の千本鳥居、実は数え切れないほど奉納されてるんです。全国3万社の稲荷",
-   "self_replied": false,
-   "measured": true
-  },
   {
    "tweet_id": "2104014337816072258",
    "posted_at": "2026-09-27T10:04:46.279583+09:00",
@@ -618,6 +610,15 @@
    "category": "mame",
    "topic_id": "m042",
    "text_head": "御朱印に日付が入るのは、実は「いつ参拝したか」を証明するためなんです。同じ神社で",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2126054974362951787",
+   "posted_at": "2026-11-27T05:46:21.713524+09:00",
+   "category": "question",
+   "topic_id": "q002",
+   "text_head": "私の初めての御朱印は、地元の小さな神社でした。緊張しながら社務所に向かった時のこ",
    "self_replied": false,
    "measured": false
   }
