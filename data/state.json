@@ -1,5 +1,5 @@
 {
- "post_count": 143,
+ "post_count": 144,
  "used_ids": [
   "m039",
   "s024",
@@ -82,15 +82,6 @@
  ],
  "mame_vol": 49,
  "last_posts": [
-  {
-   "tweet_id": "2104014337816072258",
-   "posted_at": "2026-09-27T10:04:46.279583+09:00",
-   "category": "mame",
-   "topic_id": "m032",
-   "text_head": "雨の日の参拝、実は好きなんです。\n\n雨は禊（みそぎ）という考えもあるように、心身",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2104648057421717896",
    "posted_at": "2026-09-29T04:02:55.869570+09:00",
@@ -619,6 +610,15 @@
    "category": "question",
    "topic_id": "q002",
    "text_head": "私の初めての御朱印は、地元の小さな神社でした。緊張しながら社務所に向かった時のこ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2126413624394870953",
+   "posted_at": "2026-11-28T05:31:30.776006+09:00",
+   "category": "season",
+   "topic_id": "cal-12-01",
+   "text_head": "師走の参拝。一年間お世話になった神社へ、ありがとうございます、と。紅葉が散ったひ",
    "self_replied": false,
    "measured": false
   }
