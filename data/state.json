@@ -1,5 +1,5 @@
 {
- "post_count": 144,
+ "post_count": 145,
  "used_ids": [
   "m039",
   "s024",
@@ -82,15 +82,6 @@
  ],
  "mame_vol": 49,
  "last_posts": [
-  {
-   "tweet_id": "2104648057421717896",
-   "posted_at": "2026-09-29T04:02:55.869570+09:00",
-   "category": "season",
-   "topic_id": "cal-10-01",
-   "text_head": "10月は全国の神々が出雲に集う月。出雲では『神在月（かみありづき）』と呼ぶそうで",
-   "self_replied": true,
-   "measured": true
-  },
   {
    "tweet_id": "2104985613741195514",
    "posted_at": "2026-09-30T02:24:14.887603+09:00",
@@ -619,6 +610,15 @@
    "category": "season",
    "topic_id": "cal-12-01",
    "text_head": "師走の参拝。一年間お世話になった神社へ、ありがとうございます、と。紅葉が散ったひ",
+   "self_replied": false,
+   "measured": false
+  },
+  {
+   "tweet_id": "2126534015846867387",
+   "posted_at": "2026-11-28T13:29:54.452986+09:00",
+   "category": "season",
+   "topic_id": "cal-12-01",
+   "text_head": "師走の参拝。一年間お世話になった神社へ、改めて感謝を伝える季節がきました。夏越の",
    "self_replied": false,
    "measured": false
   }
